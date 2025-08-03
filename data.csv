@@ -1038,3 +1038,455 @@ text, label
 "Quantum foundations explore fundamental quantum principles.",quantum_mechanics
 "Thermal systems engineering designs heat management solutions.",thermodynamics
 "Optical engineering develops practical light-based devices.",optics
+"The hydrogen bond forms between water molecules",intermolecular_forces
+"Calculate the molarity of this solution",concentration_calculation
+"The reaction produced a precipitate",precipitation_reaction
+"What is the atomic number of carbon?",atomic_structure
+"The pH of this solution is acidic",acid_base_chemistry
+"Perform titration to find concentration",analytical_chemistry
+"The catalyst increased reaction rate",catalysis
+"Electrons occupy different energy levels",quantum_chemistry
+"The compound has ionic bonding",chemical_bonding
+"Mix sodium chloride with water",solution_preparation
+"The equilibrium shifted to products",chemical_equilibrium
+"Carbon forms four covalent bonds",organic_chemistry
+"The reaction is exothermic",thermodynamics
+"Identify the functional group present",organic_functional_groups
+"The crystal structure is cubic",solid_state_chemistry
+"Measure the boiling point accurately",physical_properties
+"The enzyme catalyzes this reaction",biochemistry
+"Balance the chemical equation properly",stoichiometry
+"The metal corroded over time",corrosion_chemistry
+"Separate compounds using chromatography",separation_techniques
+"The oxidation state changed",redox_reactions
+"Prepare buffer solution carefully",buffer_chemistry
+"The molecule shows chirality",stereochemistry
+"Calculate theoretical yield expected",yield_calculations
+"The polymer has repeating units",polymer_chemistry
+"Analyze using mass spectrometry",instrumental_analysis
+"The reaction follows first order",kinetics
+"Identify unknown compound structure",structural_analysis
+"The solvent dissolved the solute",solubility
+"Perform recrystallization for purification",purification_techniques
+"The acid dissociates completely",strong_acid
+"The base accepts protons readily",base_chemistry
+"Calculate enthalpy change accurately",thermochemistry
+"The reaction mechanism involves radicals",radical_chemistry
+"Determine molecular formula precisely",molecular_formulas
+"The compound exhibits resonance",resonance_structures
+"Measure density of the liquid",physical_measurements
+"The gas follows ideal behavior",gas_laws
+"Identify precipitate formed visually",qualitative_analysis
+"The solution changed color dramatically",color_changes
+"Calculate moles from given mass",mole_calculations
+"The reaction rate depends on temperature",temperature_effects
+"Perform extraction using organic solvent",extraction_techniques
+"The crystal habit is needle-like",crystallography
+"Determine purity using melting point",purity_analysis
+"The compound is hygroscopic",moisture_absorption
+"Calculate percent composition accurately",composition_analysis
+"The reaction produces toxic gases",safety_concerns
+"Store chemicals in proper conditions",chemical_storage
+"The solution has high conductivity",electrical_properties
+"Identify isomers of the compound",isomerism
+"The reaction is photochemically induced",photochemistry
+"Calculate activation energy required",activation_energy
+"The complex ion has coordination number six",coordination_chemistry
+"Perform flame test for identification",flame_tests
+"The solution exhibits fluorescence",fluorescence
+"Calculate osmotic pressure precisely",colligative_properties
+"The reaction follows SN2 mechanism",reaction_mechanisms
+"Identify aromatic compound characteristics",aromatic_chemistry
+"The metal exhibits variable oxidation states",transition_metals
+"Calculate half-life of radioactive isotope",nuclear_chemistry
+"The compound undergoes hydrolysis",hydrolysis_reactions
+"Perform gravimetric analysis carefully",gravimetric_analysis
+"The solution shows optical activity",optical_activity
+"Calculate vapor pressure at temperature",vapor_pressure
+"The reaction is autocatalytic",autocatalysis
+"Identify Lewis acid-base pairs",lewis_acid_base
+"The compound has multiple stereoisomers",stereoisomers
+"Calculate solubility product constant",solubility_equilibrium
+"The reaction produces chemiluminescence",chemiluminescence
+"Perform cyclic voltammetry analysis",electroanalytical_chemistry
+"The polymer shows thermal stability",thermal_analysis
+"Calculate standard electrode potential",electrochemistry
+"The compound exhibits tautomerism",tautomerism
+"Identify coordination sphere geometry",coordination_geometry
+"The reaction shows kinetic isotope effect",isotope_effects
+"Calculate binding constant accurately",binding_equilibrium
+"The compound has amphoteric properties",amphoteric_substances
+"Perform NMR spectroscopy analysis",nmr_spectroscopy
+"The solution exhibits non-ideal behavior",non_ideal_solutions
+"Calculate partition coefficient precisely",partition_coefficients
+"The reaction involves electron transfer",electron_transfer
+"Identify supramolecular interactions",supramolecular_chemistry
+"The compound shows polymorphism",polymorphism
+"Calculate surface tension measurement",surface_chemistry
+"The reaction produces free radicals",free_radical_chemistry
+"Perform X-ray crystallography analysis",x_ray_crystallography
+"The solution has buffer capacity",buffer_capacity
+"Calculate dielectric constant accurately",dielectric_properties
+"The compound exhibits liquid crystalline behavior",liquid_crystals
+"Identify host-guest interactions",host_guest_chemistry
+"The reaction shows regioselectivity",regioselectivity
+"Calculate diffusion coefficient precisely",diffusion
+"The compound has photochemical stability",photostability
+"Perform thermal gravimetric analysis",thermal_gravimetry
+"The solution exhibits Raoult's law deviation",solution_thermodynamics
+"Calculate magnetic susceptibility",magnetic_properties
+"The reaction involves carbocation intermediate",carbocation_chemistry
+"Identify hydrogen bonding patterns",hydrogen_bonding
+"The compound shows solid-state reactivity",solid_state_reactions
+"Calculate viscosity of the solution",viscosity_measurements
+"The reaction is stereospecific",stereospecificity
+"Perform capillary electrophoresis",electrophoresis
+"The compound has crown ether structure",crown_ethers
+"Calculate work function accurately",work_function
+"The reaction shows chemoselectivity",chemoselectivity
+"Identify inclusion complex formation",inclusion_complexes
+"The compound exhibits piezoelectric properties",piezoelectricity
+"Calculate refractive index precisely",refractive_index
+"The reaction involves pericyclic mechanism",pericyclic_reactions
+"Perform atomic absorption spectroscopy",atomic_spectroscopy
+"The solution has critical temperature",critical_phenomena
+"Calculate dipole moment accurately",dipole_moments
+"The compound shows ferroelectric behavior",ferroelectricity
+"Identify molecular recognition events",molecular_recognition
+"The reaction exhibits autocorrelation",autocorrelation
+"Calculate zeta potential measurement",zeta_potential
+"The compound has mesoporous structure",mesoporous_materials
+"Perform ion chromatography analysis",ion_chromatography
+"The solution exhibits phase separation",phase_separation
+"Calculate polarizability tensor",polarizability
+"The reaction involves photoinduced electron transfer",photoinduced_processes
+"Identify self-assembly mechanisms",self_assembly
+"The compound shows shape memory effect",shape_memory_materials
+"Calculate hydrodynamic radius",hydrodynamic_properties
+"The reaction exhibits oscillatory behavior",oscillating_reactions
+"Perform matrix-assisted laser desorption",mass_spectrometry_techniques
+"The solution has anomalous properties",anomalous_behavior
+"Calculate compressibility factor",compressibility
+"The compound exhibits superhydrophobic behavior",surface_properties
+"Identify biomimetic interactions",biomimetic_chemistry
+"The reaction shows template effects",template_chemistry
+"Calculate rotational correlation time",rotational_dynamics
+"The compound has nanostructured morphology",nanostructures
+"Perform single-crystal diffraction",single_crystal_analysis
+"The solution exhibits glass transition",glass_transition
+"Calculate electron affinity precisely",electron_affinity
+"The reaction involves spin crossover",spin_crossover
+"Identify mechanochemical processes",mechanochemistry
+"The compound shows thermochromism",thermochromism
+"Calculate Henry's law constant",henry_law
+"The reaction exhibits enantioselectivity",enantioselectivity
+"Perform electrospray ionization analysis",electrospray_ionization
+"The solution has lower critical solution temperature",lcst_behavior
+"Calculate second virial coefficient",virial_coefficients
+"The compound exhibits electrochromism",electrochromism
+"Identify click chemistry reactions",click_chemistry
+"The reaction shows cooperative binding",cooperative_binding
+"Calculate radial distribution function",radial_distribution
+"The compound has dendrimeric structure",dendrimers
+"Perform time-resolved spectroscopy",time_resolved_spectroscopy
+"The solution exhibits upper critical solution temperature",ucst_behavior
+"Calculate fugacity coefficient",fugacity
+"The reaction involves metal-organic frameworks",metal_organic_frameworks
+"Identify breathing mode vibrations",vibrational_spectroscopy
+"The compound shows liquid-liquid extraction",liquid_liquid_extraction
+"Calculate activity coefficient precisely",activity_coefficients
+"The reaction exhibits substrate selectivity",substrate_selectivity
+"Perform scanning tunneling microscopy",scanning_probe_microscopy
+"The solution has spinodal decomposition",spinodal_decomposition
+"Calculate excess molar volume",excess_properties
+"The compound exhibits ionic conductivity",ionic_conductors
+"Identify frustrated Lewis pairs",frustrated_lewis_pairs
+"The reaction shows anti-Markovnikov addition",anti_markovnikov
+"Calculate chemical potential accurately",chemical_potential
+"The compound has covalent organic framework structure",covalent_organic_frameworks
+"Perform dynamic light scattering",dynamic_light_scattering
+"The solution exhibits retrograde solubility",retrograde_solubility
+"Calculate partial molar properties",partial_molar_properties
+"The reaction involves organocatalysis",organocatalysis
+"Identify halogen bonding interactions",halogen_bonding
+"The compound shows room-temperature ionic liquid behavior",ionic_liquids
+"Calculate osmotic coefficient",osmotic_coefficients
+"The reaction exhibits kinetic resolution",kinetic_resolution
+"Perform atomic force microscopy",atomic_force_microscopy
+"The solution has microemulsion structure",microemulsions
+"Calculate excess Gibbs energy",excess_gibbs_energy
+"The compound exhibits proton conductivity",proton_conductors
+"Identify mechanically interlocked structures",mechanically_interlocked
+"The reaction shows umpolung reactivity",umpolung_chemistry
+"Calculate isothermal compressibility",isothermal_compressibility
+"The compound has porous coordination polymer structure",porous_coordination_polymers
+"Perform neutron scattering analysis",neutron_scattering
+"The solution exhibits demixing behavior",demixing
+"Calculate thermal expansion coefficient",thermal_expansion
+"The reaction involves asymmetric catalysis",asymmetric_catalysis
+"Identify chalcogen bonding",chalcogen_bonding
+"The compound shows switchable properties",switchable_materials
+"Calculate heat capacity at constant pressure",heat_capacity
+"The reaction exhibits cascade chemistry",cascade_reactions
+"Perform electron paramagnetic resonance",epr_spectroscopy
+"The solution has bicontinuous structure",bicontinuous_phases
+"Calculate isothermal bulk modulus",bulk_modulus
+"The compound exhibits mixed ionic-electronic conductivity",mixed_conductors
+"Identify rotaxane formation",rotaxanes
+"The reaction shows multicomponent coupling",multicomponent_reactions
+"Calculate adiabatic compressibility",adiabatic_compressibility
+"The compound has hierarchical porous structure",hierarchical_porosity
+"Perform small-angle scattering",small_angle_scattering
+"The solution exhibits re-entrant phase behavior",reentrant_phases
+"Calculate speed of sound in medium",sound_velocity
+"The reaction involves photochemical rearrangement",photochemical_rearrangements
+"Identify pnictogen bonding interactions",pnictogen_bonding
+"The compound shows stimuli-responsive behavior",stimuli_responsive_materials
+"Calculate molar refraction accurately",molar_refraction
+"The reaction exhibits domino chemistry",domino_reactions
+"Perform coherent anti-Stokes Raman spectroscopy",cars_spectroscopy
+"The solution has percolation threshold",percolation
+"Calculate isobaric thermal expansivity",isobaric_expansivity
+"The compound exhibits fast ion transport",fast_ion_conductors
+"Identify catenane structures",catenanes
+"The reaction shows tandem catalysis",tandem_catalysis
+"Calculate isothermal Joule-Thomson coefficient",joule_thomson_coefficient
+"The compound has metal-organic polyhedra structure",metal_organic_polyhedra
+"Perform sum-frequency generation spectroscopy",sum_frequency_generation
+"The solution exhibits cloud point behavior",cloud_point
+"Calculate adiabatic bulk modulus",adiabatic_bulk_modulus
+"The reaction involves cooperative catalysis",cooperative_catalysis
+"Identify tetrel bonding",tetrel_bonding
+"The compound shows self-healing properties",self_healing_materials
+"Calculate Grüneisen parameter",gruneisen_parameter
+"The reaction exhibits relay catalysis",relay_catalysis
+"Perform tip-enhanced Raman spectroscopy",tip_enhanced_raman
+"The solution has lower consolute temperature",lower_consolute_temperature
+"Calculate thermal pressure coefficient",thermal_pressure_coefficient
+"The compound exhibits superionic conductivity",superionic_conductors
+"Identify pseudorotaxane formation",pseudorotaxanes
+"The reaction shows sequential catalysis",sequential_catalysis
+"Calculate volumetric thermal expansion",volumetric_expansion
+"The compound has reticular chemistry design",reticular_chemistry
+"Perform surface-enhanced infrared spectroscopy",surface_enhanced_infrared
+"The solution exhibits Krafft temperature",krafft_temperature
+"Calculate linear thermal expansion coefficient",linear_expansion
+"The reaction involves dual catalysis",dual_catalysis
+"Identify aerogen bonding",aerogen_bonding
+"The compound shows auxetic behavior",auxetic_materials
+"Calculate bulk viscosity accurately",bulk_viscosity
+"The reaction exhibits bifunctional catalysis",bifunctional_catalysis
+"Perform transient absorption spectroscopy",transient_absorption
+"The solution has critical micelle concentration",critical_micelle_concentration
+"Calculate shear viscosity coefficient",shear_viscosity
+"The compound exhibits negative thermal expansion",negative_thermal_expansion
+"Identify trefoil knot structures",trefoil_knots
+"The reaction shows bimetallic catalysis",bimetallic_catalysis
+"Calculate dynamic viscosity precisely",dynamic_viscosity
+"The compound has isoreticular framework",isoreticular_frameworks
+"Perform femtosecond laser spectroscopy",femtosecond_spectroscopy
+"The solution exhibits gel-sol transition",gel_sol_transition
+"Calculate kinematic viscosity",kinematic_viscosity
+"The reaction involves heterogeneous catalysis",heterogeneous_catalysis
+"Identify Solomon knot formation",solomon_knots
+"The compound shows metamaterial properties",metamaterials
+"Calculate surface viscosity",surface_viscosity
+"The reaction exhibits single-atom catalysis",single_atom_catalysis
+"Perform tip-enhanced photoluminescence",tip_enhanced_photoluminescence
+"The solution has Theta temperature",theta_temperature
+"Calculate extensional viscosity",extensional_viscosity
+"The compound exhibits phononic behavior",phononic_materials
+"Identify Hopf link structures",hopf_links
+"The reaction shows electrocatalysis",electrocatalysis
+"Calculate first normal stress difference",normal_stress_differences
+"The compound has topological insulator properties",topological_insulators
+"Perform angle-resolved photoemission spectroscopy",angle_resolved_photoemission
+"The solution exhibits spinodal temperature",spinodal_temperature
+"Calculate second normal stress difference",second_normal_stress
+"The reaction involves photoredox catalysis",photoredox_catalysis
+"Identify borromean rings",borromean_rings
+"The compound shows quantum dot behavior",quantum_dots
+"Calculate loss modulus accurately",loss_modulus
+"The reaction exhibits cooperative photoredox catalysis",cooperative_photoredox
+"Perform two-photon absorption spectroscopy",two_photon_absorption
+"The solution has binodal curve",binodal_curve
+"Calculate storage modulus precisely",storage_modulus
+"The compound exhibits plasmonic properties",plasmonic_materials
+"Identify molecular Borromean rings",molecular_borromean_rings
+"The reaction shows metallaphotoredox catalysis",metallaphotoredox
+"Calculate complex modulus",complex_modulus
+"The compound has photonic crystal structure",photonic_crystals
+"Perform stimulated emission depletion microscopy",sted_microscopy
+"The solution exhibits tie-line behavior",tie_lines
+"Calculate loss tangent",loss_tangent
+"The reaction involves enamine catalysis",enamine_catalysis
+"Identify figure-eight knot",figure_eight_knot
+"The compound shows magnetocaloric effect",magnetocaloric_materials
+"Calculate storage compliance",storage_compliance
+"The reaction exhibits iminium catalysis",iminium_catalysis
+"Perform stochastic optical reconstruction microscopy",storm_microscopy
+"The solution has critical composition",critical_composition
+"Calculate loss compliance",loss_compliance
+"The compound exhibits multiferroic properties",multiferroic_materials
+"Identify pentafoil knot structures",pentafoil_knots
+"The reaction shows SOMO activation",somo_activation
+"Calculate complex compliance",complex_compliance
+"The compound has skyrmion structure",skyrmions
+"Perform photoactivated localization microscopy",palm_microscopy
+"The solution exhibits plait point",plait_point
+"Calculate creep compliance",creep_compliance
+"The reaction involves radical cation catalysis",radical_cation_catalysis
+"Identify torus knot formation",torus_knots
+"The compound shows spin liquid behavior",spin_liquids
+"Calculate relaxation modulus",relaxation_modulus
+"The reaction exhibits counterion catalysis",counterion_catalysis
+"Perform single-molecule localization microscopy",single_molecule_localization
+"The solution has critical end point",critical_end_point
+"Calculate stress relaxation",stress_relaxation
+"The compound exhibits Weyl semimetal properties",weyl_semimetals
+"Identify composite knot structures",composite_knots
+"The reaction shows hydrogen bond catalysis",hydrogen_bond_catalysis
+"Calculate creep function",creep_function
+"The compound has Dirac semimetal behavior",dirac_semimetals
+"Perform structured illumination microscopy",structured_illumination
+"The solution exhibits tricritical point",tricritical_point
+"Calculate retardation spectrum",retardation_spectrum
+"The reaction involves anion binding catalysis",anion_binding_catalysis
+"Identify satellite knot formation",satellite_knots
+"The compound shows nodal-line semimetal properties",nodal_line_semimetals
+"Calculate relaxation spectrum",relaxation_spectrum
+"The reaction exhibits cation binding catalysis",cation_binding_catalysis
+"Perform light-sheet fluorescence microscopy",light_sheet_microscopy
+"The solution has quadruple point",quadruple_point
+"Calculate Cox-Merz rule applicability",cox_merz_rule
+"The compound exhibits quantum spin liquid behavior",quantum_spin_liquids
+"Identify twist knot structures",twist_knots
+"The reaction shows phase-transfer catalysis",phase_transfer_catalysis
+"Calculate Arrhenius activation energy for flow",flow_activation_energy
+"The compound has quantum anomalous Hall effect",quantum_anomalous_hall
+"Perform super-resolution radial fluctuations microscopy",srrf_microscopy
+"The solution exhibits glass-glass transition",glass_glass_transition
+"Calculate WLF equation parameters",wlf_equation
+"The reaction involves micellar catalysis",micellar_catalysis
+"Identify cable knot formation",cable_knots
+"The compound shows fractional quantum Hall behavior",fractional_quantum_hall
+"Calculate Vogel-Fulcher-Tammann parameters",vft_parameters
+"The reaction exhibits inverse electron demand Diels-Alder",inverse_electron_demand
+"Perform expansion microscopy",expansion_microscopy
+"The solution has peritectic point",peritectic_point
+"Calculate Adam-Gibbs equation parameters",adam_gibbs_equation
+"The compound exhibits quantum critical behavior",quantum_criticality
+"Identify pretzel knot structures",pretzel_knots
+"The reaction shows nitroxide-mediated polymerization",nitroxide_mediated_polymerization
+"Calculate MYEGA equation parameters",myega_equation
+"The compound has magnetic monopole behavior",magnetic_monopoles
+"Perform correlative light-electron microscopy",correlative_microscopy
+"The solution exhibits eutectoid transformation",eutectoid_transformation
+"Calculate fragility index",fragility_index
+"The reaction involves atom transfer radical polymerization",atom_transfer_radical_polymerization
+"Identify stevedore knot formation",stevedore_knots
+"The compound shows axion insulator properties",axion_insulators
+"Calculate cooperativity parameter",cooperativity_parameter
+"The reaction exhibits reversible addition-fragmentation chain transfer",raft_polymerization
+"Perform cryo-electron tomography",cryo_electron_tomography
+"The solution has peritectoid reaction",peritectoid_reaction
+"Calculate stretching exponent",stretching_exponent
+"The compound exhibits higher-order topological behavior",higher_order_topological
+"Identify cinquefoil knot structures",cinquefoil_knots
+"The reaction shows ring-opening metathesis polymerization",romp
+"Calculate Kohlrausch exponent",kohlrausch_exponent
+"The compound has anyonic statistics",anyonic_statistics
+"Perform focused ion beam microscopy",focused_ion_beam
+"The solution exhibits monotectic reaction",monotectic_reaction
+"Calculate non-exponential relaxation",non_exponential_relaxation
+"The reaction involves controlled radical polymerization",controlled_radical_polymerization
+"Identify granny knot formation",granny_knots
+"The compound shows parafermion behavior",parafermions
+"Calculate Havriliak-Negami parameters",havriliak_negami
+"The reaction exhibits living polymerization",living_polymerization
+"Perform helium ion microscopy",helium_ion_microscopy
+"The solution has syntectoid transformation",syntectoid_transformation
+"Calculate Cole-Cole parameters",cole_cole_parameters
+"The compound exhibits Majorana fermion behavior",majorana_fermions
+"Identify square knot structures",square_knots
+"The reaction shows group transfer polymerization",group_transfer_polymerization
+"Calculate Cole-Davidson parameters",cole_davidson_parameters
+"The compound has non-Abelian anyon properties",non_abelian_anyons
+"Perform dual-beam focused ion beam",dual_beam_fib
+"The solution exhibits catatectic reaction",catatectic_reaction
+"Calculate Davidson-Cole relaxation",davidson_cole_relaxation
+"The reaction involves anionic polymerization",anionic_polymerization
+"Identify thief knot formation",thief_knots
+"The compound shows Fibonacci anyon behavior",fibonacci_anyons
+"Calculate distribution of relaxation times",relaxation_time_distribution
+"The reaction exhibits cationic polymerization",cationic_polymerization
+"Perform gas-phase electron diffraction",gas_phase_electron_diffraction
+"The solution has invariant reaction",invariant_reaction
+"Calculate Gaussian distribution of relaxation times",gaussian_relaxation_distribution
+"The compound exhibits Ising anyon properties",ising_anyons
+"Identify reef knot structures",reef_knots
+"The reaction shows metathesis polymerization",metathesis_polymerization
+"Calculate lognormal distribution of relaxation times",lognormal_relaxation_distribution
+"The compound has parafermionic zero modes",parafermionic_zero_modes
+"Perform liquid-phase electron diffraction",liquid_phase_electron_diffraction
+"The solution exhibits congruent melting",congruent_melting
+"Calculate power-law distribution of relaxation times",power_law_relaxation
+"The reaction involves step-growth polymerization",step_growth_polymerization
+"Identify bowline knot formation",bowline_knots
+"The compound shows topological superconductivity",topological_superconductors
+"Calculate stretched exponential distribution",stretched_exponential_distribution
+"The reaction exhibits chain-growth polymerization",chain_growth_polymerization
+"Perform selected-area electron diffraction",selected_area_diffraction
+"The solution has incongruent melting",incongruent_melting
+"Calculate bimodal relaxation distribution",bimodal_relaxation
+"The compound exhibits Kitaev spin liquid behavior",kitaev_spin_liquid
+"Identify slip knot structures",slip_knots
+"The reaction shows precipitation polymerization",precipitation_polymerization
+"Calculate trimodal relaxation distribution",trimodal_relaxation
+"The compound has quantum spin ice properties",quantum_spin_ice
+"Perform convergent-beam electron diffraction",convergent_beam_diffraction
+"The solution exhibits retrograde precipitation",retrograde_precipitation
+"Calculate multimodal relaxation distribution",multimodal_relaxation
+"The reaction involves emulsion polymerization",emulsion_polymerization
+"Identify running knot formation",running_knots
+"The compound shows algebraic spin liquid behavior",algebraic_spin_liquid
+"Calculate continuous relaxation spectrum",continuous_relaxation_spectrum
+"The reaction exhibits suspension polymerization",suspension_polymerization
+"Perform precession electron diffraction",precession_electron_diffraction
+"The solution has retrograde solubility behavior",retrograde_solubility_behavior
+"Calculate discrete relaxation spectrum",discrete_relaxation_spectrum
+"The compound exhibits gapless spin liquid properties",gapless_spin_liquid
+"Identify noose knot structures",noose_knots
+"The reaction shows miniemulsion polymerization",miniemulsion_polymerization
+"Calculate regularized relaxation spectrum",regularized_relaxation_spectrum
+"The compound has chiral spin liquid behavior",chiral_spin_liquid
+"Perform nanobeam electron diffraction",nanobeam_diffraction
+"The solution exhibits salting-out effect",salting_out
+"Calculate maximum entropy relaxation spectrum",maximum_entropy_spectrum
+"The reaction involves microemulsion polymerization",microemulsion_polymerization
+"Identify hangman's knot formation",hangmans_knot
+"The compound shows Z2 spin liquid properties",z2_spin_liquid
+"Calculate Tikhonov regularized spectrum",tikhonov_regularization
+"The reaction exhibits interfacial polymerization",interfacial_polymerization
+"Perform fluctuation electron microscopy",fluctuation_electron_microscopy
+"The solution has salting-in effect",salting_in
+"Calculate non-negative least squares spectrum",nnls_spectrum
+"The compound exhibits U(1) spin liquid behavior",u1_spin_liquid
+"Identify clove hitch knot structures",clove_hitch_knots
+"The reaction shows plasma polymerization",plasma_polymerization
+"Calculate L-curve optimized spectrum",l_curve_optimization
+"The compound has topological Mott insulator properties",topological_mott_insulator
+"Perform environmental transmission electron microscopy",environmental_tem
+"The solution exhibits hydrophobic interaction",hydrophobic_interaction
+"Calculate generalized cross-validation spectrum",gcv_spectrum
+"The reaction involves photopolymerization",photopolymerization
+"Identify half hitch knot formation",half_hitch_knots
+"The compound shows quantum spin Hall behavior",quantum_spin_hall
+"Calculate Bayesian relaxation spectrum",bayesian_spectrum
+"The reaction exhibits electropolymerization",electropolymerization
+"Perform liquid-cell electron microscopy",liquid_cell_microscopy
+"The solution has hydrophilic interaction",hydrophilic_interaction
+"Calculate neural network relaxation spectrum",neural_network_spectrum
+"The compound exhibits fractional Chern insulator properties",fractional_chern_insulator
+"Identify timber hitch knot structures",timber_hitch_knots
+"The reaction shows mechanochemical polymerization",mechanochemical_polymerization
