@@ -2437,3 +2437,775 @@ text, label
 "Implement deployment value stream optimization",devops
 "The Badging API shows notification counts",frontend
 "Use secure computation with secret sharing",security
+"Neural networks learn through backpropagation",machine_learning
+"Implement gradient descent optimization",optimization
+"The sigmoid function is σ(x) = 1/(1 + e^(-x))",activation_functions
+"Training accuracy reached 94.5%",model_performance
+"Overfitting detected in validation set",overfitting
+"Apply dropout regularization technique",regularization
+"The loss function is decreasing",training_progress
+"Use ReLU activation: f(x) = max(0,x)",activation_functions
+"Convolutional neural networks for image recognition",computer_vision
+"Natural language processing with transformers",nlp
+"Implement attention mechanism",attention
+"The learning rate is too high",hyperparameters
+"Batch size of 32 works best",hyperparameters
+"Cross-entropy loss: L = -Σy*log(ŷ)",loss_functions
+"Support vector machines for classification",svm
+"K-means clustering algorithm",clustering
+"Random forest ensemble method",ensemble_learning
+"Principal component analysis for dimensionality reduction",pca
+"Reinforcement learning with Q-learning",reinforcement_learning
+"Deep Q-network implementation",deep_rl
+"Policy gradient methods",policy_gradient
+"Actor-critic architecture",actor_critic
+"Monte Carlo tree search",mcts
+"Generative adversarial networks",gan
+"Variational autoencoders",vae
+"BERT for language understanding",bert
+"GPT architecture explanation",gpt
+"Transformer self-attention mechanism",transformers
+"Positional encoding in transformers",positional_encoding
+"Multi-head attention computation",multi_head_attention
+"Layer normalization technique",layer_norm
+"Residual connections in networks",residual_networks
+"Skip connections implementation",skip_connections
+"Batch normalization benefits",batch_norm
+"Data augmentation strategies",data_augmentation
+"Transfer learning approach",transfer_learning
+"Fine-tuning pre-trained models",fine_tuning
+"Feature extraction methods",feature_extraction
+"Dimensionality curse problem",curse_dimensionality
+"Bias-variance tradeoff",bias_variance
+"Cross-validation techniques",cross_validation
+"Grid search hyperparameter tuning",grid_search
+"Random search optimization",random_search
+"Bayesian optimization methods",bayesian_optimization
+"Genetic algorithm implementation",genetic_algorithms
+"Particle swarm optimization",pso
+"Simulated annealing technique",simulated_annealing
+"Gradient boosting machines",gradient_boosting
+"XGBoost algorithm",xgboost
+"LightGBM implementation",lightgbm
+"CatBoost for categorical features",catboost
+"Decision tree construction",decision_trees
+"Information gain calculation: IG = H(S) - Σ(|Sv|/|S|)*H(Sv)",information_gain
+"Gini impurity measure",gini_impurity
+"Entropy formula: H(S) = -Σp*log2(p)",entropy
+"Confusion matrix analysis",confusion_matrix
+"Precision and recall metrics",precision_recall
+"F1-score calculation: F1 = 2*(precision*recall)/(precision+recall)",f1_score
+"ROC curve interpretation",roc_curve
+"AUC score evaluation",auc
+"Mean squared error: MSE = (1/n)*Σ(yi-ŷi)²",mse
+"Root mean squared error",rmse
+"Mean absolute error calculation",mae
+"R-squared coefficient",r_squared
+"Adjusted R-squared formula",adjusted_r_squared
+"Pearson correlation coefficient",correlation
+"Spearman rank correlation",spearman_correlation
+"Chi-square test statistic",chi_square
+"T-test for significance",t_test
+"ANOVA analysis",anova
+"Linear regression implementation",linear_regression
+"Logistic regression model: p = 1/(1+e^(-(β0+β1x1+...+βnxn)))",logistic_regression
+"Ridge regression with L2 penalty",ridge_regression
+"Lasso regression with L1 penalty",lasso_regression
+"Elastic net regularization",elastic_net
+"Polynomial regression fitting",polynomial_regression
+"Multiple linear regression",multiple_regression
+"Stepwise regression selection",stepwise_regression
+"Forward selection method",forward_selection
+"Backward elimination technique",backward_elimination
+"Regularization parameter tuning",regularization_tuning
+"Cross-entropy loss function",cross_entropy
+"Hinge loss for SVM",hinge_loss
+"Huber loss function",huber_loss
+"Focal loss for imbalanced data",focal_loss
+"Dice loss implementation",dice_loss
+"IoU loss calculation",iou_loss
+"Triplet loss for embeddings",triplet_loss
+"Contrastive loss function",contrastive_loss
+"Center loss implementation",center_loss
+"Adversarial loss formulation",adversarial_loss
+"Wasserstein loss function",wasserstein_loss
+"KL divergence: D_KL(P||Q) = Σp*log(p/q)",kl_divergence
+"Jensen-Shannon divergence",js_divergence
+"Earth mover's distance",earth_movers_distance
+"Cosine similarity measure",cosine_similarity
+"Euclidean distance calculation",euclidean_distance
+"Manhattan distance metric",manhattan_distance
+"Hamming distance computation",hamming_distance
+"Jaccard similarity index",jaccard_similarity
+"Dice coefficient formula",dice_coefficient
+"Tanimoto coefficient",tanimoto_coefficient
+"Minkowski distance generalization",minkowski_distance
+"Mahalanobis distance measure",mahalanobis_distance
+"Neural network architecture design",network_architecture
+"Feedforward neural networks",feedforward_networks
+"Recurrent neural networks",rnn
+"Long short-term memory networks",lstm
+"Gated recurrent units",gru
+"Bidirectional RNN implementation",bidirectional_rnn
+"Sequence-to-sequence models",seq2seq
+"Encoder-decoder architecture",encoder_decoder
+"Attention is all you need",attention_mechanism
+"Scaled dot-product attention",scaled_attention
+"Multi-scale feature extraction",multi_scale_features
+"Pyramid pooling modules",pyramid_pooling
+"Feature pyramid networks",fpn
+"U-Net architecture for segmentation",unet
+"ResNet residual blocks",resnet
+"DenseNet dense connections",densenet
+"Inception modules design",inception
+"MobileNet efficient architecture",mobilenet
+"EfficientNet scaling method",efficientnet
+"NASNet neural architecture search",nasnet
+"AutoML automated machine learning",automl
+"Neural architecture search techniques",nas
+"Differentiable architecture search",darts
+"Progressive neural architecture search",pnas
+"Efficient neural architecture search",enas
+"Once-for-all network design",ofa
+"Knowledge distillation method",knowledge_distillation
+"Model compression techniques",model_compression
+"Pruning neural networks",pruning
+"Quantization methods",quantization
+"Low-rank approximation",low_rank_approximation
+"Singular value decomposition",svd
+"Matrix factorization techniques",matrix_factorization
+"Non-negative matrix factorization",nmf
+"Independent component analysis",ica
+"Factor analysis method",factor_analysis
+"Canonical correlation analysis",cca
+"Multidimensional scaling",mds
+"t-SNE visualization: t-SNE minimizes KL divergence",tsne
+"t-distributed stochastic neighbor embedding",tsne_algorithm
+"UMAP dimensionality reduction",umap
+"Locally linear embedding",lle
+"Isomap algorithm",isomap
+"Spectral embedding technique",spectral_embedding
+"Laplacian eigenmaps",laplacian_eigenmaps
+"Diffusion maps method",diffusion_maps
+"Self-organizing maps",som
+"Competitive learning algorithm",competitive_learning
+"Hebbian learning rule",hebbian_learning
+"Spike-timing dependent plasticity",stdp
+"Backpropagation through time",bptt
+"Real-time recurrent learning",rtrl
+"Extended Kalman filter",ekf
+"Particle filter implementation",particle_filter
+"Unscented Kalman filter",ukf
+"Hidden Markov models",hmm
+"Viterbi algorithm implementation",viterbi
+"Forward-backward algorithm",forward_backward
+"Baum-Welch algorithm",baum_welch
+"Conditional random fields",crf
+"Maximum entropy models",maxent
+"Expectation-maximization algorithm",em_algorithm
+"Gaussian mixture models",gmm
+"Dirichlet process mixture",dp_mixture
+"Chinese restaurant process",crp
+"Indian buffet process",ibp
+"Beta process implementation",beta_process
+"Pitman-Yor process",pitman_yor
+"Hierarchical Dirichlet process",hdp
+"Latent Dirichlet allocation",lda
+"Non-negative matrix factorization",nnmf
+"Probabilistic matrix factorization",pmf
+"Bayesian matrix factorization",bmf
+"Collaborative filtering methods",collaborative_filtering
+"Content-based filtering",content_based_filtering
+"Hybrid recommendation systems",hybrid_recommender
+"Matrix completion techniques",matrix_completion
+"Low-rank matrix recovery",low_rank_recovery
+"Robust principal component analysis",robust_pca
+"Sparse principal component analysis",sparse_pca
+"Kernel principal component analysis",kernel_pca
+"Kernel methods implementation",kernel_methods
+"Radial basis function kernels",rbf_kernel
+"Polynomial kernel functions",polynomial_kernel
+"Linear kernel implementation",linear_kernel
+"String kernels for sequences",string_kernels
+"Graph kernels for networks",graph_kernels
+"Multiple kernel learning",mkl
+"Support vector regression",svr
+"Least squares SVM",ls_svm
+"One-class SVM implementation",one_class_svm
+"Multi-class SVM strategies",multiclass_svm
+"Structured SVM approach",structured_svm
+"Sequential minimal optimization",smo
+"Gaussian processes regression",gaussian_processes
+"Bayesian optimization with GP",bayesian_opt_gp
+"Acquisition function optimization",acquisition_functions
+"Expected improvement criterion",expected_improvement
+"Upper confidence bound",ucb
+"Thompson sampling strategy",thompson_sampling
+"Multi-armed bandit problems",multi_armed_bandits
+"Contextual bandits implementation",contextual_bandits
+"Linear bandits algorithm",linear_bandits
+"Neural bandits approach",neural_bandits
+"Adversarial bandits setting",adversarial_bandits
+"Online learning algorithms",online_learning
+"Stochastic gradient descent: θ = θ - α∇J(θ)",sgd
+"Mini-batch gradient descent",mini_batch_gd
+"Momentum optimization: v = βv + (1-β)∇J(θ)",momentum
+"AdaGrad optimizer implementation",adagrad
+"RMSprop adaptive learning",rmsprop
+"Adam optimizer: Adam combines momentum and RMSprop",adam
+"AdamW weight decay",adamw
+"Nadam optimizer variant",nadam
+"AdaBound adaptive method",adabound
+"RAdam rectified Adam",radam
+"Lookahead optimizer wrapper",lookahead
+"LAMB optimizer for large batches",lamb
+"Lion optimizer implementation",lion
+"Shampoo preconditioned gradients",shampoo
+"K-FAC approximation method",kfac
+"Natural gradient descent",natural_gradients
+"Conjugate gradient method",conjugate_gradients
+"Quasi-Newton methods",quasi_newton
+"BFGS optimization algorithm",bfgs
+"L-BFGS limited memory",lbfgs
+"Nesterov accelerated gradients",nag
+"Polyak averaging technique",polyak_averaging
+"Exponential moving average",ema
+"Learning rate scheduling",lr_scheduling
+"Cosine annealing schedule",cosine_annealing
+"Warm restarts implementation",warm_restarts
+"Cyclical learning rates",cyclical_lr
+"One cycle learning policy",one_cycle
+"Reduce on plateau strategy",reduce_on_plateau
+"Step decay scheduling",step_decay
+"Exponential decay rate",exponential_decay
+"Polynomial decay method",polynomial_decay
+"Piecewise constant schedule",piecewise_constant
+"Multi-step learning rates",multistep_lr
+"Label smoothing technique",label_smoothing
+"Mixup data augmentation",mixup
+"CutMix augmentation method",cutmix
+"CutOut regularization",cutout
+"Random erasing technique",random_erasing
+"AutoAugment policy search",autoaugment
+"RandAugment simplified approach",randaugment
+"TrivialAugment method",trivialaugment
+"AugMax optimization",augmax
+"Adversarial training robustness",adversarial_training
+"Fast gradient sign method",fgsm
+"Projected gradient descent",pgd
+"C&W attack implementation",cw_attack
+"DeepFool adversarial examples",deepfool
+"JSMA saliency map attack",jsma
+"Universal adversarial perturbations",uap
+"Adversarial patches generation",adversarial_patches
+"Certified adversarial defense",certified_defense
+"Randomized smoothing technique",randomized_smoothing
+"Defensive distillation method",defensive_distillation
+"Feature squeezing defense",feature_squeezing
+"MagNet detector network",magnet
+"Local intrinsic dimensionality",lid
+"Mahalanobis distance detection",mahalanobis_detection
+"TRADES adversarial training",trades
+"MART adversarial training",mart
+"AWP adversarial weight perturbation",awp
+"SAM sharpness-aware minimization",sam
+"ASAM adaptive SAM",asam
+"Federated learning framework",federated_learning
+"FedAvg algorithm implementation",fedavg
+"FedProx proximal method",fedprox
+"FedNova normalized averaging",fednova
+"SCAFFOLD control variates",scaffold
+"FedOpt federated optimization",fedopt
+"Personalized federated learning",personalized_fl
+"Multi-task federated learning",multitask_fl
+"Hierarchical federated learning",hierarchical_fl
+"Secure aggregation protocol",secure_aggregation
+"Differential privacy mechanism",differential_privacy
+"Local differential privacy",local_dp
+"Gaussian mechanism DP",gaussian_mechanism
+"Laplace mechanism implementation",laplace_mechanism
+"Exponential mechanism DP",exponential_mechanism
+"Private aggregation techniques",private_aggregation
+"Homomorphic encryption methods",homomorphic_encryption
+"Secure multi-party computation",smpc
+"Private information retrieval",pir
+"Oblivious transfer protocol",oblivious_transfer
+"Zero-knowledge proofs",zero_knowledge
+"Blockchain for ML integrity",blockchain_ml
+"Proof of learning consensus",proof_of_learning
+"Decentralized AI networks",decentralized_ai
+"Edge computing deployment",edge_computing
+"Model quantization for edge",edge_quantization
+"Neural network pruning",network_pruning
+"Structured pruning methods",structured_pruning
+"Unstructured pruning techniques",unstructured_pruning
+"Magnitude-based pruning",magnitude_pruning
+"Gradual pruning schedule",gradual_pruning
+"Lottery ticket hypothesis",lottery_ticket
+"SNIP pruning at initialization",snip
+"GraSP gradient signal preservation",grasp
+"Fisher information pruning",fisher_pruning
+"Layer-wise relevance propagation",lrp
+"Integrated gradients method",integrated_gradients
+"SmoothGrad noise tunneling",smoothgrad
+"GradCAM visualization technique",gradcam
+"LIME local interpretability",lime
+"SHAP shapley values",shap
+"Counterfactual explanations",counterfactual_explanations
+"Anchors high-precision rules",anchors
+"Prototype-based explanations",prototype_explanations
+"Concept activation vectors",cav
+"Network dissection analysis",network_dissection
+"Activation maximization",activation_maximization
+"DeepLIFT contribution scores",deeplift
+"Expected gradients method",expected_gradients
+"Attention visualization",attention_visualization
+"Saliency maps generation",saliency_maps
+"Occlusion sensitivity analysis",occlusion_sensitivity
+"Perturbation-based explanations",perturbation_explanations
+"Feature importance ranking",feature_importance
+"Permutation importance scores",permutation_importance
+"Mutual information estimation",mutual_information
+"Maximal information coefficient",mic
+"Distance correlation measure",distance_correlation
+"Canonical information analysis",canonical_information
+"Information bottleneck principle",information_bottleneck
+"Variational information bottleneck",vib
+"Deep information bottleneck",deep_ib
+"Mutual information neural estimation",mine
+"Contrastive predictive coding",cpc
+"SimCLR contrastive learning",simclr
+"MoCo momentum contrast",moco
+"SwAV swapping assignments",swav
+"BYOL bootstrap your own latent",byol
+"SimSiam simple siamese networks",simsiam
+"Barlow twins redundancy reduction",barlow_twins
+"VICReg variance-invariance-covariance",vicreg
+"DINO self-distillation vision",dino
+"MAE masked autoencoders",mae
+"BEiT bidirectional encoder",beit
+"SimMIM simple masked modeling",simmim
+"MaskFeat masked feature prediction",maskfeat
+"SwinT shifted window transformer",swin_transformer
+"ConvNeXt modern ConvNet",convnext
+"EfficientNetV2 improved scaling",efficientnetv2
+"RegNet regular networks",regnet
+"RepVGG structural reparameterization",repvgg
+"GhostNet cheap operations",ghostnet
+"ShuffleNet channel shuffle",shufflenet
+"SqueezeNet fire modules",squeezenet
+"Xception depthwise separable",xception
+"MnasNet mobile architecture",mnasnet
+"ProxylessNAS direct search",proxylessnas
+"FBNet flexible block networks",fbnet
+"ChamNet channel number search",chamnet
+"MixNet mixed depthwise convolution",mixnet
+"EfficientDet compound scaling",efficientdet
+"YOLO object detection",yolo
+"Faster R-CNN two-stage",faster_rcnn
+"Mask R-CNN instance segmentation",mask_rcnn
+"Feature pyramid networks",feature_pyramid
+"RetinaNet focal loss",retinanet
+"SSD single shot detector",ssd
+"FCOS fully convolutional",fcos
+"CenterNet keypoint detection",centernet
+"CornerNet corner keypoints",cornernet
+"ExtremeNet extreme points",extremenet
+"Bottom-up pose estimation",bottom_up_pose
+"Top-down pose estimation",top_down_pose
+"OpenPose multi-person",openpose
+"AlphaPose accurate poses",alphapose
+"HRNet high-resolution networks",hrnet
+"Simple baselines pose",simple_baselines
+"Hourglass networks stacking",hourglass_networks
+"Stacked hourglass architecture",stacked_hourglass
+"CPM convolutional pose machines",cpm
+"PAF part affinity fields",paf
+"DeepCut joint optimization",deepcut
+"DensePose surface correspondence",densepose
+"SMPL human body model",smpl
+"MANO hand model",mano
+"FLAME face model",flame
+"3D human pose estimation",3d_pose_estimation
+"Temporal pose estimation",temporal_pose
+"Multi-view pose estimation",multiview_pose
+"Monocular depth estimation",monocular_depth
+"Stereo depth estimation",stereo_depth
+"Structure from motion",sfm
+"Simultaneous localization mapping",slam
+"Visual odometry systems",visual_odometry
+"Bundle adjustment optimization",bundle_adjustment
+"Photometric stereo technique",photometric_stereo
+"Shape from shading",shape_from_shading
+"Optical flow estimation",optical_flow
+"Lucas-Kanade tracker",lucas_kanade
+"Horn-Schunck method",horn_schunck
+"FlowNet end-to-end",flownet
+"PWC-Net pyramid warping",pwc_net
+"RAFT recurrent flow",raft_flow
+"Video frame interpolation",frame_interpolation
+"Super-resolution networks",super_resolution
+"SRCNN super-resolution CNN",srcnn
+"ESPCN efficient sub-pixel",espcn
+"SRGAN generative adversarial",srgan
+"EDSR enhanced deep residual",edsr
+"RCAN residual channel attention",rcan
+"SwinIR image restoration",swinir
+"Real-ESRGAN practical super-resolution",real_esrgan
+"Image denoising networks",image_denoising
+"DnCNN denoising CNN",dncnn
+"FFDNet flexible denoising",ffdnet
+"RIDNet real image denoising",ridnet
+"MPRNet multi-stage restoration",mprnet
+"Restormer efficient transformer",restormer
+"NAFNet nonlinear activation free",nafnet
+"Image deblurring methods",image_deblurring
+"DeblurGAN motion deblurring",deblurgan
+"MPRNet multi-patch rectified",mprnet_deblur
+"Restormer transformer deblurring",restormer_deblur
+"MIMO-UNet multi-input output",mimo_unet
+"HINet half instance normalization",hinet
+"BANet blur-aware network",banet
+"Image enhancement techniques",image_enhancement
+"Low-light enhancement",low_light_enhancement
+"RetinexNet decomposition",retinexnet
+"KinD kindling darkness",kind
+"Zero-DCE zero-reference",zero_dce
+"EnlightenGAN attention guided",enlightengan
+"RUAS recursive unsupervised",ruas
+"Image colorization methods",image_colorization
+"Colorful image colorization",colorful_colorization
+"Let there be color",let_there_be_color
+"Real-time colorization",realtime_colorization
+"ChromaGAN color generation",chromagan
+"InstColorization instance-aware",inst_colorization
+"BigColor large-scale colorization",bigcolor
+"Image inpainting techniques",image_inpainting
+"Context encoders inpainting",context_encoders
+"Globally coherent inpainting",globally_coherent
+"EdgeConnect edge guided",edgeconnect
+"Partial convolutions inpainting",partial_conv
+"Gated convolutions free-form",gated_conv
+"Coherent semantic attention",coherent_attention
+"High-resolution inpainting",high_res_inpainting
+"Style transfer networks",style_transfer
+"Neural style transfer",neural_style_transfer
+"Fast neural style",fast_neural_style
+"Arbitrary style transfer",arbitrary_style_transfer
+"AdaIN adaptive instance normalization",adain
+"WCT whitening coloring transform",wct
+"Avatar-Net multi-scale transfer",avatar_net
+"SANet style attentional network",sanet
+"STROTSS style transfer",strotss
+"Neural texture transfer",neural_texture_transfer
+"Semantic image synthesis",semantic_synthesis
+"Pix2pix image translation",pix2pix
+"CycleGAN unpaired translation",cyclegan
+"StarGAN multi-domain translation",stargan
+"MUNIT multimodal translation",munit
+"FUNIT few-shot translation",funit
+"AttentionGAN fine-grained",attentiongan
+"SPADE spatially adaptive",spade
+"GauGAN semantic painting",gaugan
+"OASIS semantic synthesis",oasis
+"Semantic image manipulation",semantic_manipulation
+"GANSpace semantic directions",ganspace
+"InterFaceGAN semantic editing",interfacegan
+"StyleGAN latent editing",stylegan_editing
+"StyleCLIP text-driven editing",styleclip
+"DragGAN interactive editing",draggan
+"Generative adversarial networks",generative_adversarial
+"Minimax game formulation: min_G max_D V(D,G)",minimax_gan
+"Wasserstein GAN improved training",wgan
+"Wasserstein GAN gradient penalty",wgan_gp
+"Least squares GAN stable training",lsgan
+"Spectral normalization regularization",spectral_normalization
+"Self-attention GAN long-range",sagan
+"BigGAN large-scale synthesis",biggan
+"Progressive GAN high-resolution",progressive_gan
+"StyleGAN style-based generator",stylegan
+"StyleGAN2 improved architecture",stylegan2
+"StyleGAN3 alias-free generation",stylegan3
+"Conditional GAN class conditioning",conditional_gan
+"Auxiliary classifier GAN",acgan
+"InfoGAN mutual information",infogan
+"BiGAN bidirectional generation",bigan
+"ALI adversarially learned",ali
+"CycleGAN cycle consistency",cycle_consistency
+"DiscoGAN discover relations",discogan
+"DualGAN dual learning",dualgan
+"UNIT unsupervised translation",unit
+"CoGAN coupled representation",cogan
+"Domain adaptation techniques",domain_adaptation
+"Adversarial domain adaptation",adversarial_da
+"DANN domain adversarial",dann
+"CORAL correlation alignment",coral
+"MMD maximum mean discrepancy",mmd
+"WDGRL Wasserstein distance",wdgrl
+"CDAN conditional adversarial",cdan
+"MCD maximum classifier discrepancy",mcd
+"SHOT source hypothesis transfer",shot
+"Unsupervised domain adaptation",unsupervised_da
+"Semi-supervised learning methods",semi_supervised
+"Pseudo-labeling technique",pseudo_labeling
+"Co-training algorithm",co_training
+"Tri-training ensemble method",tri_training
+"Self-training approach",self_training
+"Mean teacher consistency",mean_teacher
+"Temporal ensembling method",temporal_ensembling
+"Π-model consistency regularization",pi_model
+"VAT virtual adversarial training",vat
+"MixMatch data augmentation",mixmatch
+"ReMixMatch improved matching",remixmatch
+"FixMatch semi-supervised",fixmatch
+"FlexMatch flexible matching",flexmatch
+"AdaMatch adaptive matching",adamatch
+"SimPLE simple pseudo-labeling",simple
+"UDA unsupervised data augmentation",uda_semi
+"MPL meta pseudo labels",mpl
+"Noisy student self-training",noisy_student
+"Active learning strategies",active_learning
+"Uncertainty sampling method",uncertainty_sampling
+"Query by committee",query_by_committee
+"Expected model change",expected_model_change
+"Variance reduction sampling",variance_reduction
+"Diversity-based sampling",diversity_sampling
+"Core-set selection",core_set_selection
+"Bayesian active learning",bayesian_active_learning
+"Deep active learning",deep_active_learning
+"Variational adversarial learning",variational_adversarial
+"Learning loss prediction",learning_loss_prediction
+"Badge sampling strategy",badge_sampling
+"Coreset greedy selection",coreset_greedy
+"Graph neural networks",graph_neural_networks
+"Graph convolutional networks",gcn
+"GraphSAGE sampling aggregating",graphsage
+"Graph attention networks",gat
+"Graph transformer networks",graph_transformer
+"Message passing framework",message_passing
+"Spectral graph convolution",spectral_gcn
+"Chebyshev graph convolution",chebyshev_gcn
+"FastGCN fast convolution",fastgcn
+"GraphSAINT subgraph sampling",graphsaint
+"GraphNorm normalization",graphnorm
+"DropEdge regularization technique",dropedge
+"DropNode regularization method",dropnode
+"Graph pooling operations",graph_pooling
+"DiffPool differentiable pooling",diffpool
+"SAGPool self-attention pooling",sagpool
+"TopK pooling method",topk_pooling
+"Graph isomorphism networks",gin
+"Principal neighbourhood aggregation",pna
+"Graph multiset transformer",gmt
+"GraphiT graph transformer",graphit
+"Graph neural architecture search",graph_nas
+"AutoGNN automated design",autognn
+"Differentiable pooling operations",diff_pooling
+"Hierarchical graph representation",hierarchical_graph
+"Multi-scale graph networks",multiscale_graph
+"Temporal graph networks",temporal_graph
+"Dynamic graph neural networks",dynamic_gnn
+"Evolving graph convolution",evolving_gcn
+"Graph recurrent networks",graph_rnn
+"Temporal graph attention",temporal_gat
+"Graph sequence modeling",graph_sequence
+"Knowledge graph embeddings",knowledge_graph_embeddings
+"TransE translation embedding",transe
+"TransH hyperplane embedding",transh
+"TransR relation-specific",transr
+"DistMult bilinear diagonal",distmult
+"ComplEx complex embeddings",complex
+"ConvE convolutional embeddings",conve
+"RotatE rotational embedding",rotate
+"QuatE quaternion embedding",quate
+"TuckER tensor factorization",tucker
+"SimplE simplified embeddings",simple_embeddings
+"Graph completion tasks",graph_completion
+"Link prediction methods",link_prediction
+"Node classification algorithms",node_classification
+"Graph classification networks",graph_classification
+"Graph regression tasks",graph_regression
+"Few-shot graph learning",few_shot_graph
+"Meta-learning approaches",meta_learning
+"Model-agnostic meta-learning",maml
+"Reptile first-order approximation",reptile
+"Prototypical networks",prototypical_networks
+"Matching networks",matching_networks
+"Relation networks comparison",relation_networks
+"Memory-augmented networks",memory_augmented
+"Neural Turing machines",neural_turing_machine
+"Differentiable neural computer",dnc
+"External memory architectures",external_memory
+"Adaptive computation time",adaptive_computation
+"Universal approximation theorem",universal_approximation
+"No free lunch theorem",no_free_lunch
+"Probably approximately correct",pac_learning
+"VC dimension theory",vc_dimension
+"Rademacher complexity bounds",rademacher_complexity
+"Algorithmic information theory",algorithmic_information
+"Kolmogorov complexity measure",kolmogorov_complexity
+"Minimum description length",mdl
+"Occam's razor principle",occams_razor
+"Bayesian information criterion",bic
+"Akaike information criterion",aic
+"Cross-validation error estimation",cv_error_estimation
+"Bootstrap confidence intervals",bootstrap_confidence
+"Jackknife estimation method",jackknife_estimation
+"Permutation test significance",permutation_test
+"Multiple hypothesis testing",multiple_hypothesis
+"Bonferroni correction method",bonferroni_correction
+"False discovery rate control",fdr_control
+"Benjamini-Hochberg procedure",benjamini_hochberg
+"Family-wise error rate",fwer
+"Type I and II errors",type_errors
+"Statistical power analysis",power_analysis
+"Effect size measurement",effect_size
+"Cohen's d standardized",cohens_d
+"Hedges' g correction",hedges_g
+"Glass's delta measure",glass_delta
+"Eta squared effect size",eta_squared
+"Partial eta squared",partial_eta_squared
+"Omega squared estimation",omega_squared
+"Cramer's V association",cramers_v
+"Phi coefficient correlation",phi_coefficient
+"Point-biserial correlation",point_biserial
+"Kendall's tau correlation",kendalls_tau
+"Goodman-Kruskal gamma",goodman_kruskal_gamma
+"Somers' D asymmetric",somers_d
+"Concordance correlation coefficient",concordance_correlation
+"Intraclass correlation coefficient",icc
+"Fleiss' kappa agreement",fleiss_kappa
+"Cohen's kappa agreement",cohens_kappa
+"Krippendorff's alpha reliability",krippendorffs_alpha
+"Cronbach's alpha consistency",cronbachs_alpha
+"Inter-rater reliability measures",inter_rater_reliability
+"Test-retest reliability",test_retest_reliability
+"Split-half reliability method",split_half_reliability
+"Internal consistency measures",internal_consistency
+"Construct validity assessment",construct_validity
+"Content validity evaluation",content_validity
+"Criterion validity testing",criterion_validity
+"Convergent validity evidence",convergent_validity
+"Discriminant validity analysis",discriminant_validity
+"Face validity judgment",face_validity
+"Predictive validity assessment",predictive_validity
+"Concurrent validity testing",concurrent_validity
+"Incremental validity analysis",incremental_validity
+"Ecological validity consideration",ecological_validity
+"External validity generalization",external_validity
+"Internal validity threats",internal_validity
+"Confounding variable control",confounding_control
+"Selection bias mitigation",selection_bias
+"Information bias detection",information_bias
+"Measurement error analysis",measurement_error
+"Attrition bias handling",attrition_bias
+"Publication bias assessment",publication_bias
+"Reporting bias evaluation",reporting_bias
+"The central bank increased interest rates by 0.5%.",economics
+"Assets = Liabilities + Owner’s Equity.",accounting_equation
+"Elon Musk founded SpaceX.",person_name
+"The GDP of India grew by 6.3% in the last quarter.",economics
+"Depreciation reduces the book value of an asset.",accounting
+"The budget deficit widened due to increased defense spending.",economics
+"Calculate compound interest using A = P(1 + r/n)^(nt).",finance_equation
+"Warren Buffet is known for value investing.",person_name
+"The inflation rate touched 7.8% this year.",economics
+"Double-entry accounting ensures every debit has a credit.",accounting
+"The stock market saw a bearish trend today.",economics
+"Capital expenditure refers to funds used to acquire assets.",accounting
+"The currency exchange rate today is 1 USD = 83.21 INR.",money
+"Adam Smith is considered the father of modern economics.",person_name
+"Book value = Cost – Accumulated Depreciation.",accounting_equation
+"Bitcoin's price crossed $60,000 again.",money
+"Fiscal policy deals with government revenue and expenditure.",economics
+"Net profit = Gross profit - Operating expenses.",accounting_equation
+"Julius Caesar was assassinated in 44 BC.",general_knowledge
+"India’s Finance Minister announced a new tax policy.",person_name
+"The supply curve typically slopes upward.",economics
+"Revenue - Expenses = Net Income.",accounting_equation
+"Microeconomics focuses on individual markets.",economics
+"The Federal Reserve controls the US monetary policy.",institution_name
+"The law of demand states that price and quantity demanded are inversely related.",economics
+"Credit purchases increase accounts payable.",accounting
+"The Euro is the currency used in Germany.",money
+"Marginal cost is the cost of producing one more unit.",economics
+"Equity represents ownership in a company.",accounting
+"Albert Einstein developed the theory of relativity.",person_name
+"India became independent in 1947.",general_knowledge
+"A balance sheet shows a company’s financial position.",accounting
+"Unemployment rate is a key economic indicator.",economics
+"The barter system was used before currency was invented.",economics
+"Interest = Principal × Rate × Time.",finance_equation
+"IFRS stands for International Financial Reporting Standards.",accounting
+"Jeff Bezos founded Amazon.",person_name
+"The principle of opportunity cost underlies all economic decisions.",economics
+"Audit trail helps track financial transactions.",accounting
+"Inflation erodes the purchasing power of money.",economics
+"The income statement reports revenues and expenses.",accounting
+"Rosalind Franklin contributed to DNA discovery.",person_name
+"India is the world’s largest democracy.",general_knowledge
+"The Laffer Curve illustrates tax rates vs. tax revenue.",economics
+"A ledger is a book where financial transactions are recorded.",accounting
+"Monetary policy affects interest rates and inflation.",economics
+"Dividends are paid out of retained earnings.",accounting
+"Debit increases asset accounts.",accounting
+"RBI stands for Reserve Bank of India.",institution_name
+"Demand = f(Price, Income, Preferences).",economics_equation
+"Inventory turnover = Cost of Goods Sold / Average Inventory.",accounting_equation
+"The UN was established in 1945.",general_knowledge
+"Cost accounting tracks internal costs of production.",accounting
+"The gold standard was abandoned in the 20th century.",economics
+"Cash Flow = Inflows – Outflows.",finance_equation
+"Money laundering is a financial crime.",money
+"Milton Friedman advocated for monetarist policies.",person_name
+"Assets that are easily convertible into cash are called liquid assets.",finance
+"IS-LM curve models interaction between interest rate and output.",economics_equation
+"Subsidiary books are used to record specific transactions.",accounting
+"The World Bank provides loans to developing countries.",institution_name
+"Kenya's currency is the Kenyan Shilling.",money
+"Elasticity of demand = (% change in quantity) / (% change in price).",economics_equation
+"Bank reconciliation matches company records with bank statements.",accounting
+"Thomas Edison invented the electric bulb.",person_name
+"The World War II ended in 1945.",general_knowledge
+"The LIFO method values inventory using the last items purchased.",accounting
+"Utility in economics refers to satisfaction derived from consumption.",economics
+"Capital gains tax is levied on profit from asset sales.",money
+"Sundry debtors are customers who owe money to the business.",accounting
+"The Big Four accounting firms include Deloitte and PwC.",institution_name
+"Keynesian theory supports government intervention in the economy.",economics
+"Net working capital = Current assets - Current liabilities.",finance_equation
+"The Phillips Curve shows inflation vs. unemployment trade-off.",economics
+"Total cost = Fixed cost + Variable cost.",economics_equation
+"Liabilities are obligations owed by the business.",accounting
+"Thomas Malthus predicted food scarcity due to population growth.",person_name
+"The Cold War lasted from 1947 to 1991.",general_knowledge
+"Remittances are money transfers from foreign workers.",money
+"Trial balance ensures books are balanced.",accounting
+"GDP = C + I + G + (X - M).",economics_equation
+"The cash book records all cash transactions.",accounting
+"The Marshall Plan helped rebuild Europe post-WWII.",general_knowledge
+"Profit margin = (Net Profit / Revenue) × 100.",accounting_equation
+"Subsidies help reduce the price of essential goods.",economics
+"The accounting period is usually 12 months.",accounting
+"Visa and Mastercard are global payment processors.",money
+"Barack Obama was the 44th US president.",person_name
+"A ledger account shows debit and credit balances.",accounting
+"Real GDP is adjusted for inflation.",economics
+"The Great Depression began in 1929.",general_knowledge
+"Balance sheet follows the accounting equation.",accounting
+"Purchases journal records credit purchases only.",accounting
+"A budget is a financial plan for a specific period.",finance
+"India's first Prime Minister was Jawaharlal Nehru.",person_name
+"X = (-b ± √(b²-4ac)) / 2a",math_equation
+"Economies of scale lower cost per unit as production increases.",economics
+"Petty cash is for small day-to-day expenses.",accounting
+"Foreign Direct Investment boosts economic development.",economics
+"Goodwill is an intangible asset.",accounting
+"Adam Smith wrote 'The Wealth of Nations'.",book_title
+"The principle of conservatism guides accounting practices.",accounting
+"The law of diminishing returns applies in production.",economics
+"Liabilities include loans, accounts payable, and mortgages.",accounting
+"Money is a medium of exchange, unit of account, and store of value.",money
+"The Sarbanes-Oxley Act was enacted after Enron scandal.",general_knowledge
+"John Maynard Keynes revolutionized macroeconomics.",person_name
+"The formula for ROI is (Net Profit / Investment) × 100.",finance_equation
