@@ -593,3 +593,448 @@ text, label
 "Polar genomics studies cold adaptation genetics.",cold_adaptation
 "Tropical genomics examines heat adaptation genes.",heat_adaptation
 "Mountain genomics investigates high-altitude adaptations.",altitude_adaptation
+"Newton's first law states that objects in motion stay in motion.",mechanics
+"The speed of light in vacuum is approximately 299,792,458 meters per second.",optics
+"Entropy always increases in an isolated system.",thermodynamics
+"An electron has a negative charge of -1.602 × 10^-19 coulombs.",electromagnetism
+"The uncertainty principle limits our knowledge of particle properties.",quantum_mechanics
+"Force equals mass times acceleration according to F=ma.",mechanics
+"Electromagnetic waves can travel through vacuum.",electromagnetism
+"The photoelectric effect demonstrates particle nature of light.",quantum_mechanics
+"Heat flows from hot objects to cold objects naturally.",thermodynamics
+"Refraction occurs when light passes between different media.",optics
+"Gravitational force decreases with the square of distance.",mechanics
+"Ohm's law relates voltage, current, and resistance.",electromagnetism
+"Wave-particle duality is fundamental to quantum mechanics.",quantum_mechanics
+"The first law of thermodynamics conserves energy.",thermodynamics
+"Total internal reflection occurs at critical angles.",optics
+"Momentum is conserved in isolated systems.",mechanics
+"Magnetic fields are created by moving electric charges.",electromagnetism
+"Schrödinger's equation describes quantum wave functions.",quantum_mechanics
+"The Carnot cycle represents ideal heat engine efficiency.",thermodynamics
+"Diffraction demonstrates the wave nature of light.",optics
+"Angular momentum is conserved in rotational motion.",mechanics
+"Faraday's law describes electromagnetic induction.",electromagnetism
+"Quantum tunneling allows particles to pass through barriers.",quantum_mechanics
+"The second law of thermodynamics defines entropy increase.",thermodynamics
+"Polarization filters can block certain light orientations.",optics
+"Impulse equals the change in momentum.",mechanics
+"Capacitors store electrical energy in electric fields.",electromagnetism
+"The Heisenberg uncertainty principle applies to all particles.",quantum_mechanics
+"Absolute zero is the lowest possible temperature.",thermodynamics
+"Snell's law governs the refraction of light.",optics
+"Centripetal force maintains circular motion.",mechanics
+"Inductors store energy in magnetic fields.",electromagnetism
+"Quantum entanglement connects particle properties instantly.",quantum_mechanics
+"The Boltzmann constant relates temperature to energy.",thermodynamics
+"Interference patterns result from wave superposition.",optics
+"Torque causes rotational acceleration.",mechanics
+"Maxwell's equations unify electricity and magnetism.",electromagnetism
+"The double-slit experiment shows quantum superposition.",quantum_mechanics
+"Heat capacity measures thermal energy storage.",thermodynamics
+"Holography uses interference to record 3D images.",optics
+"Conservation of energy applies to all physical systems.",mechanics
+"Electromagnetic radiation spans a continuous spectrum.",electromagnetism
+"Quantum states collapse upon measurement.",quantum_mechanics
+"The ideal gas law relates pressure, volume, and temperature.",thermodynamics
+"Lasers produce coherent, monochromatic light.",optics
+"Work is force applied over a distance.",mechanics
+"Electric potential energy depends on charge separation.",electromagnetism
+"Quantum superposition allows multiple simultaneous states.",quantum_mechanics
+"Entropy measures the disorder in a system.",thermodynamics
+"Fiber optics uses total internal reflection.",optics
+"Kinetic energy equals half mass times velocity squared.",mechanics
+"Gauss's law relates electric flux to enclosed charge.",electromagnetism
+"The observer effect influences quantum measurements.",quantum_mechanics
+"Thermal equilibrium occurs at equal temperatures.",thermodynamics
+"Chromatic aberration separates colors in lenses.",optics
+"Potential energy depends on position in force fields.",mechanics
+"Lenz's law opposes changes in magnetic flux.",electromagnetism
+"Quantum decoherence explains classical behavior emergence.",quantum_mechanics
+"The zeroth law defines thermal equilibrium.",thermodynamics
+"Fresnel lenses focus light using concentric rings.",optics
+"Simple harmonic motion follows sinusoidal patterns.",mechanics
+"Transformers change AC voltage levels.",electromagnetism
+"Quantum field theory describes particle interactions.",quantum_mechanics
+"Phase transitions occur at specific temperatures.",thermodynamics
+"Spectroscopy analyzes light to determine composition.",optics
+"Elastic collisions conserve both momentum and energy.",mechanics
+"AC circuits involve time-varying currents.",electromagnetism
+"The Many Worlds interpretation explains quantum measurement.",quantum_mechanics
+"Heat engines convert thermal energy to work.",thermodynamics
+"Prisms disperse white light into component colors.",optics
+"Friction opposes relative motion between surfaces.",mechanics
+"Electromagnetic induction generates electric currents.",electromagnetism
+"Quantum computing uses superposition for parallel processing.",quantum_mechanics
+"Refrigerators use thermodynamic cycles to remove heat.",thermodynamics
+"Microscopes use lenses to magnify small objects.",optics
+"Projectile motion follows parabolic trajectories.",mechanics
+"Solenoids create uniform magnetic fields.",electromagnetism
+"Bell's theorem proves quantum non-locality.",quantum_mechanics
+"Adiabatic processes occur without heat transfer.",thermodynamics
+"Telescopes collect and focus distant light.",optics
+"Oscillations involve periodic motion about equilibrium.",mechanics
+"Superconductors have zero electrical resistance.",electromagnetism
+"Quantum cryptography ensures secure communication.",quantum_mechanics
+"Isothermal processes maintain constant temperature.",thermodynamics
+"Polarized sunglasses reduce glare reflection.",optics
+"Damped oscillations gradually lose energy.",mechanics
+"Eddy currents create magnetic braking forces.",electromagnetism
+"Quantum dots confine electrons in small regions.",quantum_mechanics
+"The Stirling cycle operates between two temperatures.",thermodynamics
+"Interferometry measures very small distances precisely.",optics
+"Resonance occurs when driving frequency matches natural frequency.",mechanics
+"Hall effect separates charges in magnetic fields.",electromagnetism
+"Quantum annealing finds optimal solutions.",quantum_mechanics
+"Carnot efficiency sets theoretical limits for heat engines.",thermodynamics
+"Adaptive optics corrects atmospheric distortion.",optics
+"Coupled oscillators exchange energy periodically.",mechanics
+"Piezoelectric materials generate voltage from pressure.",electromagnetism
+"Quantum error correction protects quantum information.",quantum_mechanics
+"Heat pumps move thermal energy against temperature gradients.",thermodynamics
+"Metamaterials have engineered electromagnetic properties.",optics
+"Chaos theory describes sensitive dependence on initial conditions.",mechanics
+"Plasma contains ionized particles and free electrons.",electromagnetism
+"Quantum supremacy demonstrates computational advantages.",quantum_mechanics
+"The Otto cycle models internal combustion engines.",thermodynamics
+"Photonic crystals control light propagation.",optics
+"Fluid dynamics describes motion of liquids and gases.",mechanics
+"Ferromagnetism aligns magnetic dipoles.",electromagnetism
+"Quantum algorithms solve specific problems efficiently.",quantum_mechanics
+"Thermal expansion increases size with temperature.",thermodynamics
+"Nonlinear optics involves intensity-dependent effects.",optics
+"Bernoulli's principle relates pressure to fluid speed.",mechanics
+"Dielectric materials store electric field energy.",electromagnetism
+"Quantum sensors achieve unprecedented precision.",quantum_mechanics
+"Joule heating converts electrical energy to thermal energy.",thermodynamics
+"Holographic storage uses three-dimensional recording.",optics
+"Surface tension minimizes liquid surface area.",mechanics
+"Magnetic resonance imaging uses nuclear magnetic moments.",electromagnetism
+"Quantum teleportation transfers quantum states.",quantum_mechanics
+"Blackbody radiation follows Planck's distribution.",thermodynamics
+"Optical computing processes information using light.",optics
+"Viscosity measures fluid resistance to flow.",mechanics
+"Josephson junctions exhibit quantum tunneling.",electromagnetism
+"Quantum simulation models complex quantum systems.",quantum_mechanics
+"Thermoelectric effects convert temperature differences to electricity.",thermodynamics
+"Photolithography patterns semiconductor devices.",optics
+"Turbulence creates chaotic fluid motion.",mechanics
+"Superconducting magnets create strong magnetic fields.",electromagnetism
+"Quantum metrology enhances measurement precision.",quantum_mechanics
+"Cryogenics studies extremely low temperatures.",thermodynamics
+"Optical tweezers manipulate microscopic particles.",optics
+"Aerodynamics studies air flow around objects.",mechanics
+"Magnetic levitation suspends objects using magnetic forces.",electromagnetism
+"Quantum networks connect quantum computers.",quantum_mechanics
+"Thermal conductivity governs heat transfer rates.",thermodynamics
+"Biophotonics applies optics to biological systems.",optics
+"Hydrostatics studies fluids at rest.",mechanics
+"Electromagnetic pulse can disable electronic devices.",electromagnetism
+"Quantum machine learning combines quantum and AI.",quantum_mechanics
+"Heat exchangers transfer thermal energy between fluids.",thermodynamics
+"Laser cooling reduces atomic temperatures.",optics
+"Archimedes' principle explains buoyancy forces.",mechanics
+"Magnetic monopoles remain theoretical particles.",electromagnetism
+"Topological quantum computing uses anyons.",quantum_mechanics
+"Thermal radiation follows Stefan-Boltzmann law.",thermodynamics
+"Optical fibers guide light through total internal reflection.",optics
+"Pascal's principle transmits pressure through fluids.",mechanics
+"Electromagnetic shielding blocks unwanted fields.",electromagnetism
+"Quantum advantage provides computational speedup.",quantum_mechanics
+"Phase change materials store latent heat.",thermodynamics
+"Photonic integrated circuits manipulate light on chips.",optics
+"Hydrodynamics describes fluid motion and forces.",mechanics
+"Electromagnetic compatibility prevents interference.",electromagnetism
+"Quantum walks explore quantum algorithms.",quantum_mechanics
+"Thermal insulators reduce heat transfer.",thermodynamics
+"Optical metamaterials have negative refractive index.",optics
+"Stokes' law describes drag on spherical particles.",mechanics
+"Magnetohydrodynamics studies conducting fluid motion.",electromagnetism
+"Quantum biology explores quantum effects in living systems.",quantum_mechanics
+"Thermodynamic cycles convert heat to work.",thermodynamics
+"Optical amplifiers boost light signal strength.",optics
+"Reynolds number characterizes fluid flow regimes.",mechanics
+"Electromagnetic waves propagate at light speed.",electromagnetism
+"Quantum complexity theory analyzes computational resources.",quantum_mechanics
+"Heat transfer occurs through conduction, convection, radiation.",thermodynamics
+"Optical isolators prevent back-reflection.",optics
+"Navier-Stokes equations govern fluid dynamics.",mechanics
+"Magnetic flux quantization occurs in superconducting loops.",electromagnetism
+"Quantum information theory studies information processing.",quantum_mechanics
+"Thermal barriers reduce unwanted heat flow.",thermodynamics
+"Optical coherence determines interference visibility.",optics
+"Vorticity measures local rotation in fluid flow.",mechanics
+"Skin effect concentrates current near conductor surfaces.",electromagnetism
+"Quantum key distribution enables secure communication.",quantum_mechanics
+"Entropy generation creates irreversibility.",thermodynamics
+"Optical nonlinearity enables frequency conversion.",optics
+"Boundary layers form near solid surfaces in flow.",mechanics
+"Electromagnetic induction motor converts electrical to mechanical energy.",electromagnetism
+"Quantum error rates limit computation fidelity.",quantum_mechanics
+"Heat sinks dissipate thermal energy.",thermodynamics
+"Optical bistability exhibits hysteresis effects.",optics
+"Shock waves form when flow exceeds sound speed.",mechanics
+"Magnetic domains align in ferromagnetic materials.",electromagnetism
+"Quantum phase transitions occur at zero temperature.",quantum_mechanics
+"Thermal stress results from temperature gradients.",thermodynamics
+"Optical switching controls light paths.",optics
+"Cavitation creates vapor bubbles in liquids.",mechanics
+"Electromagnetic railgun accelerates projectiles.",electromagnetism
+"Quantum spin liquids exhibit exotic magnetic properties.",quantum_mechanics
+"Thermal cycling can cause material fatigue.",thermodynamics
+"Optical parametric amplification generates new frequencies.",optics
+"Compressible flow involves density variations.",mechanics
+"Magnetic reconnection occurs in plasma physics.",electromagnetism
+"Quantum hall effect exhibits quantized conductance.",quantum_mechanics
+"Heat recovery systems capture waste thermal energy.",thermodynamics
+"Optical solitons maintain shape during propagation.",optics
+"Supersonic flow exceeds local sound speed.",mechanics
+"Electromagnetic pulse shielding protects electronics.",electromagnetism
+"Quantum spin systems exhibit magnetic ordering.",quantum_mechanics
+"Thermal management prevents overheating.",thermodynamics
+"Optical trapping uses radiation pressure.",optics
+"Fluid instabilities can lead to turbulence.",mechanics
+"Magnetic confinement contains plasma in fusion reactors.",electromagnetism
+"Quantum dots exhibit size-dependent properties.",quantum_mechanics
+"Thermal comfort depends on temperature and humidity.",thermodynamics
+"Optical waveguides confine and direct light.",optics
+"Laminar flow exhibits smooth streamlines.",mechanics
+"Electromagnetic compatibility testing ensures proper operation.",electromagnetism
+"Quantum wells confine charge carriers.",quantum_mechanics
+"Thermal protection systems withstand extreme temperatures.",thermodynamics
+"Optical modulation encodes information on light.",optics
+"Flow separation occurs at sharp corners.",mechanics
+"Magnetic bearings support rotating machinery.",electromagnetism
+"Quantum cascade lasers emit infrared radiation.",quantum_mechanics
+"Thermal imaging detects infrared radiation.",thermodynamics
+"Optical feedback can cause laser instability.",optics
+"Pressure drop occurs due to friction in pipes.",mechanics
+"Electromagnetic forming shapes metals using magnetic forces.",electromagnetism
+"Quantum interference affects particle trajectories.",quantum_mechanics
+"Thermal diffusivity governs heat spreading rate.",thermodynamics
+"Optical routing directs signals in networks.",optics
+"Mass transfer involves species concentration gradients.",mechanics
+"Electromagnetic braking uses eddy currents.",electromagnetism
+"Quantum oscillations occur in magnetic fields.",quantum_mechanics
+"Thermal shock can crack materials.",thermodynamics
+"Optical frequency combs provide precise frequency references.",optics
+"Momentum transfer occurs in fluid-solid interactions.",mechanics
+"Magnetic flux linkage determines induced voltage.",electromagnetism
+"Quantum confinement modifies electronic properties.",quantum_mechanics
+"Thermal fatigue results from temperature cycling.",thermodynamics
+"Optical gain enables laser amplification.",optics
+"Heat transfer coefficients quantify convection rates.",mechanics
+"Electromagnetic heating uses induced currents.",electromagnetism
+"Quantum size effects dominate at nanoscale.",quantum_mechanics
+"Thermal boundary resistance impedes heat flow.",thermodynamics
+"Optical density controls light transmission.",optics
+"Drag coefficient depends on object shape.",mechanics
+"Magnetic permeability determines field response.",electromagnetism
+"Quantum coherence enables superposition states.",quantum_mechanics
+"Thermal conductance quantifies heat transfer ability.",thermodynamics
+"Optical path difference creates interference.",optics
+"Lift force enables aircraft flight.",mechanics
+"Electromagnetic spectrum encompasses all frequencies.",electromagnetism
+"Quantum degeneracy occurs at low temperatures.",quantum_mechanics
+"Thermal equilibration establishes uniform temperature.",thermodynamics
+"Optical delay lines store light temporarily.",optics
+"Buoyancy force depends on displaced fluid weight.",mechanics
+"Magnetic flux density measures field strength.",electromagnetism
+"Quantum statistics govern particle behavior.",quantum_mechanics
+"Thermal time constants characterize heating rates.",thermodynamics
+"Optical absorption removes photons from beams.",optics
+"Pressure gradient drives fluid acceleration.",mechanics
+"Electromagnetic waves carry energy and momentum.",electromagnetism
+"Quantum mechanics governs atomic and molecular behavior.",quantum_mechanics
+"Thermal analysis studies temperature-dependent properties.",thermodynamics
+"Optical pumping creates population inversions.",optics
+"Viscous forces oppose relative motion.",mechanics
+"Magnetic saturation limits field enhancement.",electromagnetism
+"Quantum fluctuations cause vacuum energy.",quantum_mechanics
+"Thermal modeling predicts temperature distributions.",thermodynamics
+"Optical bandgap determines semiconductor properties.",optics
+"Streamline curvature indicates pressure gradients.",mechanics
+"Electromagnetic induction generates electrical power.",electromagnetism
+"Quantum measurement disturbs system states.",quantum_mechanics
+"Thermal design ensures proper operating temperatures.",thermodynamics
+"Optical losses reduce signal strength.",optics
+"Flow visualization reveals fluid motion patterns.",mechanics
+"Magnetic hysteresis causes energy loss.",electromagnetism
+"Quantum entanglement creates correlated particles.",quantum_mechanics
+"Heat transfer enhancement improves thermal performance.",thermodynamics
+"Optical scattering redirects light randomly.",optics
+"Pressure recovery occurs in diffusers.",mechanics
+"Electromagnetic fields exert forces on charges.",electromagnetism
+"Quantum superposition allows multiple simultaneous states.",quantum_mechanics
+"Thermal resistance opposes heat flow.",thermodynamics
+"Optical resonance enhances field interactions.",optics
+"Fluid compressibility affects wave propagation.",mechanics
+"Magnetic coupling transfers energy between circuits.",electromagnetism
+"Quantum tunneling enables chemical reactions.",quantum_mechanics
+"Thermal capacity determines temperature change rates.",thermodynamics
+"Optical emission creates photons from excited states.",optics
+"Surface roughness affects boundary layer behavior.",mechanics
+"Electromagnetic compatibility prevents system interference.",electromagnetism
+"Quantum dynamics describes time evolution.",quantum_mechanics
+"Thermal protection prevents material damage.",thermodynamics
+"Optical focusing concentrates light energy.",optics
+"Flow control modifies fluid behavior.",mechanics
+"Magnetic shielding redirects magnetic fields.",electromagnetism
+"Quantum algorithms exploit quantum mechanical properties.",quantum_mechanics
+"Thermal properties determine material behavior.",thermodynamics
+"Optical communication transmits information using light.",optics
+"Pressure waves propagate disturbances through fluids.",mechanics
+"Electromagnetic propulsion uses Lorentz forces.",electromagnetism
+"Quantum effects become important at small scales.",quantum_mechanics
+"Thermal optimization maximizes heat transfer efficiency.",thermodynamics
+"Optical sensors detect light intensity changes.",optics
+"Turbulent mixing enhances mass transfer.",mechanics
+"Magnetic levitation eliminates mechanical contact.",electromagnetism
+"Quantum computing promises exponential speedups.",quantum_mechanics
+"Thermal imaging reveals temperature patterns.",thermodynamics
+"Optical materials have engineered refractive properties.",optics
+"Fluid mechanics studies motion and forces in fluids.",mechanics
+"Electromagnetic theory unifies electric and magnetic phenomena.",electromagnetism
+"Quantum physics revolutionized our understanding of nature.",quantum_mechanics
+"Thermodynamics governs energy conversion processes.",thermodynamics
+"Optics deals with light behavior and applications.",optics
+"Classical mechanics describes macroscopic motion.",mechanics
+"Electromagnetism explains electromagnetic force behavior.",electromagnetism
+"Quantum theory explains microscopic world phenomena.",quantum_mechanics
+"Heat engines demonstrate thermodynamic principles.",thermodynamics
+"Light exhibits both wave and particle properties.",optics
+"Newton's laws form the foundation of mechanics.",mechanics
+"Maxwell's equations describe electromagnetic fields.",electromagnetism
+"Planck's constant quantizes energy in quantum mechanics.",quantum_mechanics
+"The laws of thermodynamics govern thermal processes.",thermodynamics
+"Geometric optics uses ray tracing methods.",optics
+"Conservation laws are fundamental to mechanics.",mechanics
+"Electromagnetic radiation includes all wavelengths.",electromagnetism
+"Quantum mechanics replaced classical atomic models.",quantum_mechanics
+"Thermal energy is the internal energy of systems.",thermodynamics
+"Wave optics explains diffraction and interference.",optics
+"Dynamics studies forces and resulting motion.",mechanics
+"Electric and magnetic fields permeate space.",electromagnetism
+"Quantum field theory describes particle creation.",quantum_mechanics
+"Statistical mechanics connects microscopic and macroscopic properties.",thermodynamics
+"Photonics is the technology of light generation.",optics
+"Statics analyzes forces in equilibrium systems.",mechanics
+"Electromagnetic spectrum spans radio to gamma rays.",electromagnetism
+"Quantum electrodynamics describes light-matter interactions.",quantum_mechanics
+"Kinetic theory explains gas behavior.",thermodynamics
+"Laser physics studies coherent light amplification.",optics
+"Rotational mechanics involves angular quantities.",mechanics
+"Electromagnetic devices convert between electrical and mechanical energy.",electromagnetism
+"Quantum chromodynamics describes strong nuclear force.",quantum_mechanics
+"Thermodynamic equilibrium represents maximum entropy.",thermodynamics
+"Nonlinear optics studies intensity-dependent phenomena.",optics
+"Continuum mechanics treats matter as continuous.",mechanics
+"Plasma physics studies ionized gas behavior.",electromagnetism
+"Quantum gravity attempts to unify relativity and quantum mechanics.",quantum_mechanics
+"Phase diagrams show thermodynamic state relationships.",thermodynamics
+"Quantum optics studies quantum properties of light.",optics
+"Analytical mechanics uses energy methods.",mechanics
+"Magnetostatics studies static magnetic fields.",electromagnetism
+"Many-body quantum systems exhibit collective behavior.",quantum_mechanics
+"Thermal properties characterize material responses.",thermodynamics
+"Integrated optics miniaturizes optical components.",optics
+"Hamiltonian mechanics uses generalized coordinates.",mechanics
+"Electrostatics studies static electric charges.",electromagnetism
+"Quantum information science studies information processing.",quantum_mechanics
+"Calorimetry measures thermal energy changes.",thermodynamics
+"Biomedical optics applies light to medical problems.",optics
+"Lagrangian mechanics uses least action principle.",mechanics
+"Circuit theory analyzes electrical networks.",electromagnetism
+"Condensed matter physics studies quantum many-body systems.",quantum_mechanics
+"Heat transfer mechanisms include conduction and convection.",thermodynamics
+"Atmospheric optics explains sky phenomena.",optics
+"Rigid body mechanics treats objects as non-deformable.",mechanics
+"Antenna theory describes electromagnetic radiation.",electromagnetism
+"Superconductivity is a quantum mechanical phenomenon.",quantum_mechanics
+"Thermochemistry studies heat in chemical reactions.",thermodynamics
+"Micro-optics deals with small-scale optical elements.",optics
+"Particle mechanics analyzes individual object motion.",mechanics
+"Microwave engineering uses high-frequency electromagnetics.",electromagnetism
+"Quantum materials exhibit exotic electronic properties.",quantum_mechanics
+"Psychrometrics studies moist air properties.",thermodynamics
+"Nano-optics studies light at nanometer scales.",optics
+"Celestial mechanics describes planetary motion.",mechanics
+"RF engineering deals with radio frequency applications.",electromagnetism
+"Topological quantum matter has protected edge states.",quantum_mechanics
+"Combustion involves rapid exothermic reactions.",thermodynamics
+"Singular optics studies phase singularities.",optics
+"Biomechanics applies mechanics to biological systems.",mechanics
+"Power electronics converts electrical energy efficiently.",electromagnetism
+"Quantum sensing achieves measurement beyond classical limits.",quantum_mechanics
+"Refrigeration removes heat from low-temperature reservoirs.",thermodynamics
+"Diffractive optics uses periodic structures.",optics
+"Fracture mechanics studies crack propagation.",mechanics
+"Electromagnetic compatibility ensures electronic coexistence.",electromagnetism
+"Quantum transport studies electron motion in materials.",quantum_mechanics
+"HVAC systems control indoor climate.",thermodynamics
+"Transformation optics designs novel optical devices.",optics
+"Contact mechanics analyzes surface interactions.",mechanics
+"Electromagnetic metamaterials have artificial properties.",electromagnetism
+"Quantum phase transitions occur at absolute zero.",quantum_mechanics
+"Thermal management prevents component overheating.",thermodynamics
+"Plasmonics studies surface plasmon oscillations.",optics
+"Tribology studies friction, wear, and lubrication.",mechanics
+"Electromagnetic pulse protection shields electronic systems.",electromagnetism
+"Quantum coherence enables interference effects.",quantum_mechanics
+"Energy storage systems capture and release thermal energy.",thermodynamics
+"Silicon photonics integrates optics with electronics.",optics
+"Shock and vibration analysis studies dynamic loading.",mechanics
+"Magnetic materials exhibit various magnetic behaviors.",electromagnetism
+"Quantum error correction protects fragile quantum states.",quantum_mechanics
+"Waste heat recovery improves energy efficiency.",thermodynamics
+"Optical computing processes information at light speed.",optics
+"Fatigue analysis predicts component lifetime.",mechanics
+"Superconducting electronics operate without resistance.",electromagnetism
+"Quantum simulation models complex physical systems.",quantum_mechanics
+"Thermal barrier coatings protect from high temperatures.",thermodynamics
+"Metamaterial optics enables impossible optical properties.",optics
+"Structural mechanics analyzes load-bearing systems.",mechanics
+"Electromagnetic launchers accelerate projectiles.",electromagnetism
+"Quantum advantage demonstrates computational superiority.",quantum_mechanics
+"Geothermal energy harnesses Earth's internal heat.",thermodynamics
+"Slow light reduces group velocity in materials.",optics
+"Fluid-structure interaction couples flow and deformation.",mechanics
+"Magnetic levitation trains eliminate wheel friction.",electromagnetism
+"Quantum cryptography provides information-theoretic security.",quantum_mechanics
+"Solar thermal collectors capture solar energy.",thermodynamics
+"Optical cloaking renders objects invisible.",optics
+"Multiphase flow involves multiple fluid phases.",mechanics
+"Electromagnetic forming shapes metals without contact.",electromagnetism
+"Quantum machine learning combines quantum and classical algorithms.",quantum_mechanics
+"Thermal energy storage systems balance supply and demand.",thermodynamics
+"Photonic bandgap materials control light propagation.",optics
+"Granular mechanics studies discrete particle systems.",mechanics
+"Wireless power transfer uses electromagnetic fields.",electromagnetism
+"Quantum walks provide algorithmic speedups.",quantum_mechanics
+"District heating distributes thermal energy efficiently.",thermodynamics
+"Optical neural networks process information using light.",optics
+"Multibody dynamics analyzes complex mechanical systems.",mechanics
+"Electromagnetic interference can disrupt electronic operation.",electromagnetism
+"Quantum dots exhibit tunable electronic properties.",quantum_mechanics
+"Combined heat and power systems improve efficiency.",thermodynamics
+"Optical metamaterials surpass natural material limitations.",optics
+"Computational mechanics uses numerical methods.",mechanics
+"Electromagnetic shielding blocks unwanted radiation.",electromagnetism
+"Quantum control manipulates quantum system evolution.",quantum_mechanics
+"Thermal interface materials improve heat transfer.",thermodynamics
+"Transformation optics enables exotic wave manipulation.",optics
+"Experimental mechanics measures material properties.",mechanics
+"Electromagnetic pulse weapons disable electronics.",electromagnetism
+"Quantum annealing solves optimization problems.",quantum_mechanics
+"Heat recovery ventilation conserves thermal energy.",thermodynamics
+"Optical frequency conversion enables wavelength translation.",optics
+"Applied mechanics solves engineering problems.",mechanics
+"Electromagnetic theory predicts wave propagation.",electromagnetism
+"Quantum sensing exceeds classical measurement precision.",quantum_mechanics
+"Thermal analysis characterizes material properties.",thermodynamics
+"Optical signal processing manipulates information.",optics
+"Theoretical mechanics develops fundamental principles.",mechanics
+"Electromagnetic fields store and transmit energy.",electromagnetism
+"Quantum foundations explore fundamental quantum principles.",quantum_mechanics
+"Thermal systems engineering designs heat management solutions.",thermodynamics
+"Optical engineering develops practical light-based devices.",optics
