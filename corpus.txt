@@ -1,0 +1,12 @@
+I’m thrilled about the event!
+excited
+This is so frustrating.
+annoyed
+The lecture discussed quantum mechanics.
+physics
+Book a flight to Paris.
+book_flight
+The product arrived broken.
+defective_product
+Quantum mechanics is a fundamental theory in physics.
+The process of booking flights has become easier with technology.
