@@ -1,6 +1,595 @@
-text,label
-"I’m thrilled about the event!",excited
-"This is so frustrating.",annoyed
+text, label
 "The lecture discussed quantum mechanics.",physics
 "Book a flight to Paris.",book_flight
 "The product arrived broken.",defective_product
+"We studied cell division in biology class today.",biology
+"The professor explained photosynthesis and chlorophyll.",biology
+"DNA replication is a complex molecular process.",biology
+"We're learning about genetics and inheritance patterns.",biology
+"The lab focused on examining plant cell structures.",biology
+"Evolution by natural selection is Darwin's theory.",biology
+"We discussed the nervous system and neurons.",biology
+"Mitochondria are the powerhouses of the cell.",biology
+"The digestive system breaks down nutrients.",biology
+"We analyzed protein synthesis and RNA transcription.",biology
+"Ecosystems demonstrate complex food webs.",biology
+"The circulatory system pumps blood throughout the body.",biology
+"We studied bacterial reproduction and binary fission.",biology
+"Hormones regulate many biological processes.",biology
+"The respiratory system exchanges oxygen and carbon dioxide.",biology
+"We examined different types of tissue under microscopes.",biology
+"Enzymes catalyze biochemical reactions in living organisms.",biology
+"The immune system protects against pathogens.",biology
+"We learned about Mendel's laws of inheritance.",biology
+"Cellular respiration produces ATP energy.",biology
+"The endocrine system controls growth and development.",biology
+"We studied biodiversity in tropical rainforests.",biology
+"Meiosis creates genetically diverse gametes.",biology
+"The kidney filters waste from the bloodstream.",biology
+"We examined the structure of plant roots and stems.",biology
+"Homeostasis maintains internal body balance.",biology
+"The brain processes sensory information.",biology
+"We discussed adaptation and survival strategies.",biology
+"Chromosomes carry genetic information.",biology
+"The skeletal system provides structural support.",biology
+"Ribosomes synthesize proteins from amino acids.",biology
+"The cell membrane controls what enters and exits cells.",biology
+"We studied the process of osmosis and diffusion.",biology
+"The heart has four chambers that pump blood.",biology
+"DNA contains the genetic blueprint for all organisms.",biology
+"We learned about dominant and recessive alleles.",biology
+"Bacteria can reproduce through conjugation.",biology
+"The liver detoxifies harmful substances in the body.",biology
+"We examined leaf structures and stomata function.",biology
+"Natural selection favors advantageous traits.",biology
+"The spinal cord transmits signals to the brain.",biology
+"We studied the nitrogen cycle in ecosystems.",biology
+"Mutations can cause changes in genetic sequences.",biology
+"The pancreas produces insulin to regulate blood sugar.",biology
+"We observed prokaryotic and eukaryotic cells.",biology
+"Symbiosis describes mutually beneficial relationships.",biology
+"The lymphatic system helps fight infections.",biology
+"We discussed predator-prey relationships in nature.",biology
+"Gene expression determines which proteins are made.",biology
+"The urinary system eliminates waste products.",biology
+"We studied the carbon cycle and its importance.",biology
+"Antibiotics target bacterial cell walls and processes.",biology
+"The reproductive system enables species continuation.",biology
+"We examined flower structures and pollination methods.",biology
+"Cellular metabolism involves catabolic and anabolic reactions.",biology
+"The muscular system enables movement and locomotion.",biology
+"We learned about Hardy-Weinberg equilibrium principles.",biology
+"Viruses require host cells to reproduce and survive.",biology
+"The integumentary system protects the body from harm.",biology
+"We studied population dynamics and carrying capacity.",biology
+"Transcription copies DNA information into RNA molecules.",biology
+"The thyroid gland regulates metabolic rate.",biology
+"We examined seed germination and plant development.",biology
+"Genetic drift affects allele frequencies in populations.",biology
+"The adrenal glands produce stress hormones.",biology
+"We discussed ecological succession in disturbed habitats.",biology
+"Translation converts RNA sequences into protein chains.",biology
+"The cerebellum coordinates balance and motor control.",biology
+"We studied the water cycle and precipitation patterns.",biology
+"Stem cells can differentiate into specialized cell types.",biology
+"The pituitary gland controls other endocrine organs.",biology
+"We examined insect metamorphosis and life cycles.",biology
+"Crossing over increases genetic variation during meiosis.",biology
+"The gallbladder stores bile for fat digestion.",biology
+"We learned about trophic levels in food chains.",biology
+"PCR amplifies DNA sequences for analysis.",biology
+"The hypothalamus regulates body temperature.",biology
+"We studied animal behavior and ethology concepts.",biology
+"Apoptosis is programmed cell death for development.",biology
+"The spleen filters blood and stores red blood cells.",biology
+"We examined coral reef ecosystems and biodiversity.",biology
+"Gel electrophoresis separates DNA fragments by size.",biology
+"The medulla controls breathing and heart rate.",biology
+"We discussed conservation biology and endangered species.",biology
+"Restriction enzymes cut DNA at specific sequences.",biology
+"The ovaries produce eggs and female hormones.",biology
+"We studied desert adaptations in plants and animals.",biology
+"Cloning creates genetically identical organisms.",biology
+"The testes produce sperm and male hormones.",biology
+"We examined freshwater and marine biomes.",biology
+"Gene therapy attempts to treat genetic disorders.",biology
+"The placenta nourishes developing embryos.",biology
+"We learned about invasive species and their impacts.",biology
+"Biotechnology uses living organisms for practical purposes.",biology
+"The cochlea converts sound waves into nerve signals.",biology
+"We studied arctic tundra ecosystems and permafrost.",biology
+"Genetic engineering modifies organism DNA sequences.",biology
+"The retina contains photoreceptors for vision.",biology
+"We examined grassland prairies and their characteristics.",biology
+"Biomarkers indicate biological states or conditions.",biology
+"The nephron is the functional unit of kidneys.",biology
+"We discussed temperate forest ecosystems.",biology
+"Recombinant DNA combines genes from different sources.",biology
+"The alveoli enable gas exchange in lungs.",biology
+"We studied wetland ecosystems and their functions.",biology
+"Transgenic organisms contain foreign genes.",biology
+"The villi increase intestinal surface area for absorption.",biology
+"We examined mountain ecosystems and altitude effects.",biology
+"Bioinformatics analyzes biological data using computers.",biology
+"The synapse transmits signals between neurons.",biology
+"We learned about urban ecology and city wildlife.",biology
+"Pharmacogenomics studies how genes affect drug responses.",biology
+"The dendrites receive signals from other neurons.",biology
+"We discussed climate change impacts on ecosystems.",biology
+"Proteomics studies the entire protein complement.",biology
+"The axon carries signals away from neuron cell bodies.",biology
+"We examined pollinator decline and its consequences.",biology
+"Metabolomics analyzes cellular metabolic products.",biology
+"The myelin sheath insulates nerve fibers.",biology
+"We studied habitat fragmentation and corridor creation.",biology
+"Epigenetics studies heritable changes without DNA alteration.",biology
+"The sarcomere is the contractile unit of muscle.",biology
+"We learned about restoration ecology principles.",biology
+"CRISPR enables precise genome editing.",biology
+"The nephron loop concentrates urine.",biology
+"We discussed sustainable agriculture practices.",biology
+"Synthetic biology designs artificial biological systems.",biology
+"The glomerulus filters blood in kidneys.",biology
+"We examined renewable energy from biological sources.",biology
+"Metagenomics studies microbial community genetics.",biology
+"The Bowman's capsule surrounds the glomerulus.",biology
+"We learned about bioremediation of contaminated sites.",biology
+"Systems biology studies complex biological interactions.",biology
+"The collecting duct regulates water reabsorption.",biology
+"We discussed green chemistry and environmentally friendly processes.",biology
+"Astrobiology searches for life beyond Earth.",biology
+"The loop of Henle creates concentration gradients.",biology
+"We studied biomimicry and nature-inspired technologies.",biology
+"Computational biology uses mathematical models.",biology
+"The proximal tubule reabsorbs most filtered substances.",biology
+"We examined citizen science and biodiversity monitoring.",biology
+"Structural biology determines protein three-dimensional shapes.",biology
+"The distal tubule fine-tunes electrolyte balance.",biology
+"We learned about ecological footprints and sustainability.",biology
+"Marine biology studies ocean life and ecosystems.",biology
+"The juxtaglomerular apparatus regulates blood pressure.",biology
+"We discussed biomass energy and its applications.",biology
+"Microbiology examines microscopic organisms.",biology
+"The podocytes form filtration barriers in kidneys.",biology
+"We studied carbon sequestration in forests.",biology
+"Developmental biology studies organism growth patterns.",biology
+"The mesangial cells support glomerular structure.",biology
+"We examined ecological indicators of environmental health.",biology
+"Evolutionary biology traces species relationships over time.",biology
+"The macula densa senses sodium chloride concentrations.",biology
+"We learned about sustainable fisheries management.",biology
+"Molecular biology studies biological processes at molecular levels.",biology
+"The afferent arteriole brings blood to glomerulus.",biology
+"We discussed renewable resource management strategies.",biology
+"Cell biology examines cellular structure and function.",biology
+"The efferent arteriole carries blood from glomerulus.",biology
+"We studied ecosystem services and their economic value.",biology
+"Immunology studies the body's defense mechanisms.",biology
+"The peritubular capillaries surround nephron tubules.",biology
+"We examined biodiversity hotspots around the world.",biology
+"Genetics studies heredity and gene function.",biology
+"The vasa recta maintains medullary concentration gradients.",biology
+"We learned about habitat restoration techniques.",biology
+"Biochemistry studies chemical processes in living organisms.",biology
+"The renal corpuscle consists of glomerulus and capsule.",biology
+"We discussed environmental impact assessments.",biology
+"Physiology studies how organisms function.",biology
+"The renal tubule modifies filtrate composition.",biology
+"We studied wildlife corridors and habitat connectivity.",biology
+"Anatomy studies organism structure.",biology
+"The collecting system concentrates final urine.",biology
+"We examined urban planning for biodiversity conservation.",biology
+"Ecology studies organism-environment interactions.",biology
+"The renal medulla contains loops of Henle.",biology
+"We learned about green building design principles.",biology
+"Botany studies plant life and structures.",biology
+"The renal cortex contains most nephron structures.",biology
+"We discussed renewable energy integration strategies.",biology
+"Zoology studies animal life and behavior.",biology
+"The renal pelvis collects urine from collecting ducts.",biology
+"We studied sustainable transportation systems.",biology
+"Mycology studies fungi and their roles.",biology
+"The ureter carries urine to the bladder.",biology
+"We examined waste reduction and recycling programs.",biology
+"Virology studies viruses and viral diseases.",biology
+"The bladder stores urine until elimination.",biology
+"We learned about water conservation techniques.",biology
+"Bacteriology studies bacteria and their functions.",biology
+"The urethra carries urine out of the body.",biology
+"We discussed soil conservation and erosion prevention.",biology
+"Parasitology studies parasites and host relationships.",biology
+"The sphincter muscles control urine release.",biology
+"We studied air quality monitoring and improvement.",biology
+"Entomology studies insects and arthropods.",biology
+"The detrusor muscle contracts during urination.",biology
+"We examined noise pollution and its biological effects.",biology
+"Ornithology studies birds and their behaviors.",biology
+"The trigone is a triangular area in bladder.",biology
+"We learned about light pollution impacts on wildlife.",biology
+"Herpetology studies reptiles and amphibians.",biology
+"The internal urethral sphincter is involuntary.",biology
+"We discussed chemical pollution and bioaccumulation.",biology
+"Ichthyology studies fish and aquatic vertebrates.",biology
+"The external urethral sphincter is voluntary.",biology
+"We studied plastic pollution in marine environments.",biology
+"Mammalogy studies mammals and their characteristics.",biology
+"The prostate gland surrounds male urethra.",biology
+"We examined microplastic impacts on food chains.",biology
+"Primatology studies primates and their evolution.",biology
+"The seminal vesicles produce seminal fluid.",biology
+"We learned about endocrine disruptors in environment.",biology
+"Paleontology studies ancient life through fossils.",biology
+"The vas deferens carries sperm from testes.",biology
+"We discussed habitat loss and species extinction.",biology
+"Phylogeny traces evolutionary relationships between species.",biology
+"The epididymis stores and matures sperm cells.",biology
+"We studied climate change adaptation strategies.",biology
+"Taxonomy classifies and names living organisms.",biology
+"The seminiferous tubules produce sperm cells.",biology
+"We examined ocean acidification and coral bleaching.",biology
+"Biogeography studies geographic distribution of species.",biology
+"The Leydig cells produce testosterone hormone.",biology
+"We learned about deforestation and reforestation efforts.",biology
+"Conservation biology protects endangered species and habitats.",biology
+"The Sertoli cells support sperm development.",biology
+"We discussed overfishing and marine protection areas.",biology
+"Population biology studies group dynamics and demographics.",biology
+"The scrotum regulates testicular temperature.",biology
+"We studied invasive species management strategies.",biology
+"Community ecology examines species interactions.",biology
+"The fallopian tubes transport eggs to uterus.",biology
+"We examined pollinator conservation programs.",biology
+"Ecosystem ecology studies energy and nutrient flows.",biology
+"The ovaries release eggs during ovulation cycles.",biology
+"We learned about seed banking for conservation.",biology
+"Landscape ecology studies spatial patterns and processes.",biology
+"The uterus provides environment for fetal development.",biology
+"We discussed ex-situ conservation in zoos.",biology
+"Restoration ecology repairs damaged ecosystems.",biology
+"The endometrium lines the uterine wall.",biology
+"We studied captive breeding programs for endangered species.",biology
+"Applied ecology solves environmental problems.",biology
+"The cervix connects uterus to vagina.",biology
+"We examined wildlife trade regulation and CITES.",biology
+"Urban ecology studies city environments and organisms.",biology
+"The vagina is the birth canal and reproductive tract.",biology
+"We learned about protected area management strategies.",biology
+"Agroecology applies ecological principles to farming.",biology
+"The mammary glands produce milk for offspring.",biology
+"We discussed community-based conservation approaches.",biology
+"Industrial ecology studies material and energy flows.",biology
+"The placenta exchanges nutrients and waste.",biology
+"We studied ecological economics and natural capital.",biology
+"Molecular ecology uses DNA to study populations.",biology
+"The amniotic sac protects the developing fetus.",biology
+"We examined traditional ecological knowledge systems.",biology
+"Chemical ecology studies organism chemical interactions.",biology
+"The umbilical cord connects fetus to placenta.",biology
+"We learned about environmental education programs.",biology
+"Behavioral ecology studies adaptive behaviors.",biology
+"The chorion contributes to placental development.",biology
+"We discussed green infrastructure in cities.",biology
+"Disease ecology studies pathogen transmission patterns.",biology
+"The allantois develops into umbilical blood vessels.",biology
+"We studied ecological restoration success metrics.",biology
+"Fire ecology studies wildfire effects on ecosystems.",biology
+"The yolk sac provides early embryonic nutrition.",biology
+"We examined adaptive management in conservation.",biology
+"Aquatic ecology studies freshwater and marine systems.",biology
+"The blastocyst implants in the uterine wall.",biology
+"We learned about ecosystem-based management approaches.",biology
+"Terrestrial ecology studies land-based ecosystems.",biology
+"The morula is an early embryonic stage.",biology
+"We discussed landscape connectivity and corridors.",biology
+"Polar ecology studies arctic and antarctic regions.",biology
+"The zygote is the fertilized egg cell.",biology
+"We studied rewilding and large-scale restoration.",biology
+"Tropical ecology studies equatorial forest systems.",biology
+"The gametes are reproductive cells (sperm and egg).",biology
+"We examined natural climate solutions for carbon storage.",biology
+"Desert ecology studies arid environment adaptations.",biology
+"The meiosis produces genetically diverse gametes.",biology
+"We learned about nature-based solutions to environmental problems.",biology
+"Forest ecology studies woodland ecosystems.",biology
+"The mitosis produces identical diploid cells.",biology
+"We discussed circular economy principles in biology.",biology
+"Grassland ecology studies prairie and savanna systems.",biology
+"The cytokinesis divides the cell cytoplasm.",biology
+"We studied biomimicry applications in technology.",biology
+"Wetland ecology studies marsh and swamp environments.",biology
+"The prophase condenses chromosomes for division.",biology
+"We examined bioprospecting and natural product discovery.",biology
+"Alpine ecology studies high-altitude mountain environments.",biology
+"The metaphase aligns chromosomes at cell center.",biology
+"We learned about sustainable biotechnology development.",biology
+"Cave ecology studies subterranean biological systems.",biology
+"The anaphase separates chromosome pairs.",biology
+"We discussed ethical considerations in genetic engineering.",biology
+"Island ecology studies isolated ecosystem dynamics.",biology
+"The telophase reforms nuclear membranes.",biology
+"We studied personalized medicine based on genetics.",biology
+"Stream ecology studies flowing freshwater systems.",biology
+"The interphase prepares cells for division.",biology
+"We examined gene drive technology and its implications.",biology
+"Soil ecology studies underground biological communities.",biology
+"The G1 phase involves cell growth and preparation.",biology
+"We learned about biological weapons and biosafety.",biology
+"Microbial ecology studies bacterial and viral communities.",biology
+"The S phase replicates DNA molecules.",biology
+"We discussed intellectual property in biotechnology.",biology
+"Plant ecology studies vegetation and plant communities.",biology
+"The G2 phase continues growth and checks DNA.",biology
+"We studied public participation in genetic research.",biology
+"Animal ecology studies wildlife populations and behaviors.",biology
+"The checkpoint mechanisms ensure proper cell division.",biology
+"We examined regulatory frameworks for biotechnology.",biology
+"Fungal ecology studies mushroom and mold communities.",biology
+"The cyclin proteins regulate cell cycle progression.",biology
+"We learned about international biosafety protocols.",biology
+"Viral ecology studies virus-host-environment interactions.",biology
+"The CDK enzymes drive cell cycle transitions.",biology
+"We discussed environmental release of genetically modified organisms.",biology
+"Parasite ecology studies host-parasite relationships.",biology
+"The tumor suppressor genes prevent abnormal division.",biology
+"We studied risk assessment for biotechnology applications.",biology
+"Symbiont ecology studies mutually beneficial relationships.",biology
+"The oncogenes promote cell division when mutated.",biology
+"We examined science communication and public understanding.",biology
+"Pollinator ecology studies bee and butterfly interactions.",biology
+"The apoptosis eliminates damaged or unnecessary cells.",biology
+"We learned about environmental monitoring using biological indicators.",biology
+"Predator ecology studies hunting and feeding relationships.",biology
+"The autophagy recycles cellular components.",biology
+"We discussed citizen science contributions to biological research.",biology
+"Decomposer ecology studies bacteria and fungi breakdown processes.",biology
+"The senescence is the aging process in cells.",biology
+"We studied biodiversity informatics and data management.",biology
+"Producer ecology studies photosynthetic organism roles.",biology
+"The stem cell differentiation creates specialized tissues.",biology
+"We examined biological collections and museum specimens.",biology
+"Consumer ecology studies herbivore and carnivore feeding.",biology
+"The regenerative medicine uses stem cells for healing.",biology
+"We learned about field research methods in biology.",biology
+"Scavenger ecology studies organisms that consume dead matter.",biology
+"The tissue engineering grows organs in laboratories.",biology
+"We discussed laboratory safety protocols in biological research.",biology
+"Omnivore ecology studies organisms with varied diets.",biology
+"The gene therapy treats diseases by modifying genes.",biology
+"We studied experimental design and statistical analysis.",biology
+"Detritivore ecology studies organisms that eat decaying matter.",biology
+"The immunotherapy uses immune system to fight disease.",biology
+"We examined peer review process in scientific publishing.",biology
+"Filter feeder ecology studies organisms that strain food.",biology
+"The personalized medicine tailors treatment to individual genetics.",biology
+"We learned about research ethics and animal welfare.",biology
+"Grazer ecology studies organisms that eat living plants.",biology
+"The precision medicine uses specific patient characteristics.",biology
+"We discussed scientific collaboration and international research.",biology
+"Browser ecology studies organisms that eat leaves and twigs.",biology
+"The nanomedicine uses nanoparticles for drug delivery.",biology
+"We studied grant writing and research funding.",biology
+"Frugivore ecology studies fruit-eating organisms.",biology
+"The telemedicine provides remote healthcare services.",biology
+"We examined technology transfer and commercialization.",biology
+"Nectarivore ecology studies nectar-feeding organisms.",biology
+"The digital health uses electronic tools for medicine.",biology
+"We learned about science policy and government regulation.",biology
+"Insectivore ecology studies insect-eating organisms.",biology
+"The artificial intelligence assists medical diagnosis.",biology
+"We discussed career paths in biological sciences.",biology
+"Carnivore ecology studies meat-eating organisms.",biology
+"The machine learning analyzes large biological datasets.",biology
+"We studied interdisciplinary collaboration in biology.",biology
+"Herbivore ecology studies plant-eating organisms.",biology
+"The robotics assists in surgical procedures.",biology
+"We examined global health challenges and solutions.",biology
+"Planktivore ecology studies plankton-eating organisms.",biology
+"The 3D printing creates biological tissues and organs.",biology
+"We learned about science education and outreach.",biology
+"Molluscivore ecology studies mollusk-eating organisms.",biology
+"The virtual reality trains medical professionals.",biology
+"We discussed diversity and inclusion in scientific careers.",biology
+"Piscivore ecology studies fish-eating organisms.",biology
+"The augmented reality enhances surgical visualization.",biology
+"We studied mentorship and professional development.",biology
+"Vermivore ecology studies worm-eating organisms.",biology
+"The blockchain secures medical records and data.",biology
+"We examined entrepreneurship in biotechnology.",biology
+"Coprophage ecology studies dung-eating organisms.",biology
+"The cloud computing stores and analyzes biological data.",biology
+"We learned about intellectual property and patent law.",biology
+"Saprophyte ecology studies organisms that decompose dead matter.",biology
+"The internet of things connects medical devices.",biology
+"We discussed scientific integrity and research misconduct.",biology
+"Parasite ecology studies organisms that live on hosts.",biology
+"The big data reveals patterns in biological information.",biology
+"We studied open science and data sharing.",biology
+"Commensal ecology studies neutral organism relationships.",biology
+"The precision agriculture optimizes crop production.",biology
+"We examined sustainable development goals and biology.",biology
+"Mutualist ecology studies mutually beneficial relationships.",biology
+"The vertical farming grows crops in controlled environments.",biology
+"We learned about global climate change and biological responses.",biology
+"Competition ecology studies organisms competing for resources.",biology
+"The aquaponics combines fish farming with plant cultivation.",biology
+"We discussed biodiversity loss and conservation priorities.",biology
+"Facilitation ecology studies organisms that help others.",biology
+"The hydroponics grows plants without soil.",biology
+"We studied ecosystem services valuation and payment.",biology
+"Inhibition ecology studies organisms that harm others.",biology
+"The aeroponics grows plants in air with nutrient mist.",biology
+"We examined natural capital accounting methods.",biology
+"Neutral ecology studies random population changes.",biology
+"The permaculture designs sustainable agricultural systems.",biology
+"We learned about environmental justice and equity.",biology
+"Keystone ecology studies species with disproportionate impacts.",biology
+"The agroforestry combines trees with crops or livestock.",biology
+"We discussed indigenous knowledge and biodiversity conservation.",biology
+"Foundation ecology studies species that create habitat structure.",biology
+"The silviculture manages forest tree cultivation.",biology
+"We studied participatory research and community engagement.",biology
+"Enzyme kinetics describes the rate of catalytic reactions.",biochemistry
+"The active site binds specifically to substrate molecules.",enzyme_function
+"Competitive inhibition blocks enzyme active sites.",enzyme_inhibition
+"Non-competitive inhibition changes enzyme shape.",allosteric_regulation
+"Cofactors are required for enzyme activity.",enzyme_cofactors
+"Coenzymes participate in enzyme-catalyzed reactions.",enzyme_helpers
+"The lock-and-key model explains enzyme specificity.",enzyme_models
+"Induced fit describes enzyme conformational changes.",enzyme_mechanism
+"Allosteric enzymes have regulatory binding sites.",enzyme_regulation
+"Feedback inhibition controls metabolic pathways.",metabolic_control
+"Enzyme saturation occurs at high substrate concentrations.",enzyme_kinetics
+"The Michaelis-Menten equation describes enzyme kinetics.",biochemical_equations
+"Turnover number measures enzyme catalytic efficiency.",enzyme_efficiency
+"Enzyme induction increases protein synthesis.",gene_expression
+"Enzyme repression decreases protein production.",gene_regulation
+"Isozymes are different forms of the same enzyme.",enzyme_variants
+"Ribozymes are RNA molecules with catalytic activity.",RNA_enzymes
+"Prosthetic groups are permanently attached to enzymes.",enzyme_structure
+"Enzyme denaturation destroys catalytic activity.",protein_denaturation
+"Enzyme purification isolates specific proteins.",protein_chemistry
+"Temperature affects enzyme reaction rates.",enzyme_thermodynamics
+"pH changes can alter enzyme activity.",enzyme_pH_effects
+"Heavy metals can poison enzyme function.",enzyme_toxicology
+"Enzyme assays measure catalytic activity.",biochemical_methods
+"Substrate concentration affects reaction velocity.",enzyme_kinetics
+"Product inhibition slows enzymatic reactions.",reaction_inhibition
+"Enzyme specificity prevents unwanted reactions.",catalytic_selectivity
+"Multienzyme complexes coordinate metabolic processes.",metabolic_organization
+"Enzyme compartmentalization organizes cellular functions.",cellular_organization
+"Proteolytic enzymes digest protein substrates.",protein_degradation
+"Glycolytic enzymes break down glucose molecules.",glucose_metabolism
+"Lipolytic enzymes hydrolyze lipid molecules.",lipid_metabolism
+"Nucleases cleave nucleic acid polymers.",nucleic_acid_metabolism
+"Oxidoreductases catalyze electron transfer reactions.",redox_enzymes
+"Transferases move functional groups between molecules.",group_transfer
+"Hydrolases break bonds using water molecules.",hydrolysis_reactions
+"Lyases remove groups to form double bonds.",elimination_reactions
+"Isomerases rearrange molecular structures.",structural_rearrangement
+"Ligases join molecules using ATP energy.",synthesis_reactions
+"Metabolic pathways consist of enzyme sequences.",biochemical_pathways
+"Glycolysis converts glucose to pyruvate.",glucose_catabolism
+"Gluconeogenesis synthesizes glucose from precursors.",glucose_synthesis
+"The pentose phosphate pathway generates NADPH.",glucose_oxidation
+"Glycogen synthesis stores glucose as polymer.",carbohydrate_storage
+"Glycogen breakdown releases glucose units.",carbohydrate_mobilization
+"Beta-oxidation degrades fatty acids.",lipid_catabolism
+"Fatty acid synthesis builds lipid chains.",lipid_biosynthesis
+"The citric acid cycle oxidizes acetyl-CoA.",central_metabolism
+"Oxidative phosphorylation produces most ATP.",energy_production
+"Amino acid catabolism produces urea.",nitrogen_metabolism
+"Amino acid synthesis requires nitrogen fixation.",protein_biosynthesis
+"Purine synthesis creates adenine and guanine.",nucleotide_biosynthesis
+"Pyrimidine synthesis produces cytosine and thymine.",nucleotide_metabolism
+"DNA replication copies genetic information.",molecular_genetics
+"DNA repair fixes damaged nucleotides.",genome_maintenance
+"Transcription synthesizes RNA from DNA.",gene_expression
+"Translation synthesizes proteins from RNA.",protein_synthesis
+"Post-translational modifications alter protein function.",protein_processing
+"Protein folding creates functional structures.",protein_biophysics
+"Protein misfolding causes disease states.",protein_pathology
+"Chaperones assist protein folding processes.",protein_assistance
+"Proteases degrade unwanted proteins.",protein_turnover
+"The ubiquitin system tags proteins for degradation.",protein_regulation
+"Signal transduction transmits cellular information.",cell_communication
+"Second messengers amplify cellular signals.",signal_amplification
+"Protein kinases phosphorylate target proteins.",protein_modification
+"Protein phosphatases remove phosphate groups.",signal_termination
+"G-proteins couple receptors to effectors.",signal_coupling
+"Cyclic AMP mediates hormonal responses.",second_messengers
+"Calcium ions trigger many cellular processes.",calcium_signaling
+"Lipid messengers cross cell membranes.",lipid_signaling
+"Nitric oxide acts as a gaseous messenger.",gas_signaling
+"Hormones coordinate physiological responses.",endocrine_signaling
+"Neurotransmitters enable neural communication.",synaptic_signaling
+"Growth factors stimulate cell division.",growth_regulation
+"Cytokines mediate immune responses.",immune_signaling
+"Apoptotic signals trigger programmed cell death.",cell_death_signaling
+"Stress responses protect cells from damage.",cellular_protection
+"Heat shock proteins prevent protein aggregation.",stress_proteins
+"Antioxidants neutralize reactive oxygen species.",oxidative_protection
+"DNA damage checkpoints prevent mutations.",genome_protection
+"Cell cycle checkpoints ensure proper division.",division_control
+"Tumor suppressors prevent uncontrolled growth.",cancer_prevention
+"Oncogenes promote cell proliferation.",growth_promotion
+"Metastasis spreads cancer to distant sites.",cancer_progression
+"Angiogenesis forms new blood vessels.",vascular_development
+"Stem cell differentiation creates specialized cells.",developmental_biology
+"Embryonic development follows genetic programs.",embryogenesis
+"Morphogenesis shapes developing organisms.",developmental_morphology
+"Cell migration enables tissue formation.",developmental_movement
+"Pattern formation creates organized structures.",developmental_patterning
+"Homeotic genes control body plan development.",developmental_genetics
+"MicroRNAs regulate gene expression post-transcriptionally.",gene_regulation
+"Long non-coding RNAs have regulatory functions.",RNA_biology
+"Small interfering RNAs silence target genes.",RNA_interference
+"CRISPR-Cas systems enable precise genome editing.",genome_engineering
+"Optogenetics controls cellular activity with light.",neurotechnology
+"Fluorescent proteins enable live cell imaging.",cell_visualization
+"Electron microscopy reveals ultrastructural details.",microscopy_techniques
+"X-ray crystallography determines protein structures.",structural_biology
+"NMR spectroscopy studies protein dynamics.",protein_analysis
+"Mass spectrometry identifies protein compositions.",analytical_chemistry
+"Flow cytometry analyzes individual cells.",cell_analysis
+"Western blotting detects specific proteins.",protein_detection
+"Northern blotting analyzes RNA molecules.",RNA_analysis
+"Southern blotting examines DNA fragments.",DNA_analysis
+"In situ hybridization localizes nucleic acids.",molecular_localization
+"Immunofluorescence visualizes protein distributions.",protein_localization
+"Confocal microscopy creates optical sections.",advanced_microscopy
+"Two-photon microscopy penetrates thick tissues.",deep_tissue_imaging
+"Super-resolution microscopy exceeds diffraction limits.",nanoscopy
+"Cryo-electron microscopy preserves native structures.",structural_preservation
+"Atomic force microscopy measures molecular forces.",force_spectroscopy
+"Single-molecule techniques study individual biomolecules.",single_molecule_biology
+"Microfluidics manipulates small fluid volumes.",lab_on_chip
+"Next-generation sequencing analyzes entire genomes.",genomics_technology
+"Proteomics studies complete protein sets.",protein_profiling
+"Metabolomics analyzes cellular metabolite profiles.",metabolite_analysis
+"Lipidomics examines lipid compositions.",lipid_profiling
+"Glycomics studies carbohydrate structures.",carbohydrate_analysis
+"Epigenomics maps DNA methylation patterns.",epigenetic_analysis
+"Transcriptomics profiles gene expression levels.",gene_expression_analysis
+"Single-cell sequencing analyzes individual cells.",cellular_heterogeneity
+"Spatial transcriptomics maps gene expression locations.",spatial_biology
+"Long-read sequencing spans repetitive regions.",genome_assembly
+"Metagenomics studies microbial community genetics.",microbiome_analysis
+"Phylogenomics reconstructs evolutionary relationships.",evolutionary_genomics
+"Comparative genomics identifies conserved sequences.",genome_comparison
+"Functional genomics determines gene functions.",gene_function_analysis
+"Structural genomics maps three-dimensional genome organization.",genome_architecture
+"Population genomics studies genetic variation.",population_genetics
+"Medical genomics applies genetics to healthcare.",precision_medicine
+"Agricultural genomics improves crop varieties.",plant_breeding
+"Conservation genomics preserves genetic diversity.",species_conservation
+"Forensic genomics identifies individuals from DNA.",DNA_identification
+"Pharmacogenomics personalizes drug treatments.",drug_response_genetics
+"Nutrigenomics studies gene-diet interactions.",nutritional_genetics
+"Toxicogenomics examines genetic responses to toxins.",toxicology_genetics
+"Neurogenomics investigates brain gene expression.",neuroscience_genetics
+"Immunogenomics studies immune system genetics.",immunity_genetics
+"Cancer genomics identifies oncogenic mutations.",cancer_genetics
+"Developmental genomics maps embryonic gene programs.",development_genetics
+"Aging genomics studies longevity-associated genes.",gerontology_genetics
+"Exercise genomics examines fitness-related genes.",sports_genetics
+"Behavioral genomics links genes to behaviors.",behavioral_genetics
+"Psychiatric genomics studies mental health genetics.",psychiatric_genetics
+"Addiction genomics investigates substance dependence genes.",addiction_genetics
+"Sleep genomics examines circadian rhythm genes.",chronobiology_genetics
+"Pain genomics studies genetic pain sensitivity.",pain_genetics
+"Sensory genomics investigates perception genes.",sensory_genetics
+"Motor genomics examines movement control genes.",motor_genetics
+"Cognitive genomics studies intelligence-related genes.",cognition_genetics
+"Memory genomics investigates learning and recall genes.",memory_genetics
+"Language genomics examines communication genes.",language_genetics
+"Social genomics studies behavior in groups.",social_genetics
+"Cultural genomics examines gene-culture interactions.",cultural_evolution
+"Environmental genomics studies organism-environment interactions.",ecological_genetics
+"Climate genomics investigates adaptation to climate change.",climate_adaptation
+"Marine genomics studies ocean organism genetics.",marine_genetics
+"Terrestrial genomics examines land organism genetics.",terrestrial_genetics
+"Freshwater genomics studies aquatic organism genetics.",aquatic_genetics
+"Desert genomics investigates arid adaptation genes.",desert_adaptation
+"Polar genomics studies cold adaptation genetics.",cold_adaptation
+"Tropical genomics examines heat adaptation genes.",heat_adaptation
+"Mountain genomics investigates high-altitude adaptations.",altitude_adaptation
