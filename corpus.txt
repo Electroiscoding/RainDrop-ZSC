@@ -28,7 +28,262 @@ View history
 Tools
 Appearance hide
 Text
+Skip to content
+Navigation Menu
+Electroiscoding
+RainDrop-ZSC
 
+Type / to search
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+Files
+Go to file
+t
+README.md
+corpus.txt
+data.csv
+RainDrop-ZSC
+/data.csv
+Electroiscoding
+Electroiscoding
+Update data.csv
+2b23fe8
+ · 
+4 minutes ago
+
+Preview
+
+Code
+
+Blame
+3211 lines (3211 loc) · 179 KB
+Search this file
+text	label
+The lecture discussed quantum mechanics.	physics
+Book a flight to Paris.	book_flight
+The product arrived broken.	defective_product
+We studied cell division in biology class today.	biology
+The professor explained photosynthesis and chlorophyll.	biology
+DNA replication is a complex molecular process.	biology
+We're learning about genetics and inheritance patterns.	biology
+The lab focused on examining plant cell structures.	biology
+Evolution by natural selection is Darwin's theory.	biology
+We discussed the nervous system and neurons.	biology
+Mitochondria are the powerhouses of the cell.	biology
+The digestive system breaks down nutrients.	biology
+We analyzed protein synthesis and RNA transcription.	biology
+Ecosystems demonstrate complex food webs.	biology
+The circulatory system pumps blood throughout the body.	biology
+We studied bacterial reproduction and binary fission.	biology
+Hormones regulate many biological processes.	biology
+The respiratory system exchanges oxygen and carbon dioxide.	biology
+We examined different types of tissue under microscopes.	biology
+Enzymes catalyze biochemical reactions in living organisms.	biology
+The immune system protects against pathogens.	biology
+We learned about Mendel's laws of inheritance.	biology
+Cellular respiration produces ATP energy.	biology
+The endocrine system controls growth and development.	biology
+We studied biodiversity in tropical rainforests.	biology
+Meiosis creates genetically diverse gametes.	biology
+The kidney filters waste from the bloodstream.	biology
+We examined the structure of plant roots and stems.	biology
+Homeostasis maintains internal body balance.	biology
+The brain processes sensory information.	biology
+We discussed adaptation and survival strategies.	biology
+Chromosomes carry genetic information.	biology
+The skeletal system provides structural support.	biology
+Ribosomes synthesize proteins from amino acids.	biology
+The cell membrane controls what enters and exits cells.	biology
+We studied the process of osmosis and diffusion.	biology
+The heart has four chambers that pump blood.	biology
+DNA contains the genetic blueprint for all organisms.	biology
+We learned about dominant and recessive alleles.	biology
+Bacteria can reproduce through conjugation.	biology
+The liver detoxifies harmful substances in the body.	biology
+We examined leaf structures and stomata function.	biology
+Natural selection favors advantageous traits.	biology
+The spinal cord transmits signals to the brain.	biology
+We studied the nitrogen cycle in ecosystems.	biology
+Mutations can cause changes in genetic sequences.	biology
+The pancreas produces insulin to regulate blood sugar.	biology
+We observed prokaryotic and eukaryotic cells.	biology
+Symbiosis describes mutually beneficial relationships.	biology
+The lymphatic system helps fight infections.	biology
+We discussed predator-prey relationships in nature.	biology
+Gene expression determines which proteins are made.	biology
+The urinary system eliminates waste products.	biology
+We studied the carbon cycle and its importance.	biology
+Antibiotics target bacterial cell walls and processes.	biology
+The reproductive system enables species continuation.	biology
+We examined flower structures and pollination methods.	biology
+Cellular metabolism involves catabolic and anabolic reactions.	biology
+The muscular system enables movement and locomotion.	biology
+We learned about Hardy-Weinberg equilibrium principles.	biology
+Viruses require host cells to reproduce and survive.	biology
+The integumentary system protects the body from harm.	biology
+We studied population dynamics and carrying capacity.	biology
+Transcription copies DNA information into RNA molecules.	biology
+The thyroid gland regulates metabolic rate.	biology
+We examined seed germination and plant development.	biology
+Genetic drift affects allele frequencies in populations.	biology
+The adrenal glands produce stress hormones.	biology
+We discussed ecological succession in disturbed habitats.	biology
+Translation converts RNA sequences into protein chains.	biology
+The cerebellum coordinates balance and motor control.	biology
+We studied the water cycle and precipitation patterns.	biology
+Stem cells can differentiate into specialized cell types.	biology
+The pituitary gland controls other endocrine organs.	biology
+We examined insect metamorphosis and life cycles.	biology
+Crossing over increases genetic variation during meiosis.	biology
+The gallbladder stores bile for fat digestion.	biology
+We learned about trophic levels in food chains.	biology
+PCR amplifies DNA sequences for analysis.	biology
+The hypothalamus regulates body temperature.	biology
+We studied animal behavior and ethology concepts.	biology
+Apoptosis is programmed cell death for development.	biology
+The spleen filters blood and stores red blood cells.	biology
+We examined coral reef ecosystems and biodiversity.	biology
+Gel electrophoresis separates DNA fragments by size.	biology
+The medulla controls breathing and heart rate.	biology
+We discussed conservation biology and endangered species.	biology
+Restriction enzymes cut DNA at specific sequences.	biology
+The ovaries produce eggs and female hormones.	biology
+We studied desert adaptations in plants and animals.	biology
+Cloning creates genetically identical organisms.	biology
+The testes produce sperm and male hormones.	biology
+We examined freshwater and marine biomes.	biology
+Gene therapy attempts to treat genetic disorders.	biology
+The placenta nourishes developing embryos.	biology
+We learned about invasive species and their impacts.	biology
+Biotechnology uses living organisms for practical purposes.	biology
+The cochlea converts sound waves into nerve signals.	biology
+We studied arctic tundra ecosystems and permafrost.	biology
+Genetic engineering modifies organism DNA sequences.	biology
+The retina contains photoreceptors for vision.	biology
+We examined grassland prairies and their characteristics.	biology
+Biomarkers indicate biological states or conditions.	biology
+The nephron is the functional unit of kidneys.	biology
+We discussed temperate forest ecosystems.	biology
+Recombinant DNA combines genes from different sources.	biology
+The alveoli enable gas exchange in lungs.	biology
+We studied wetland ecosystems and their functions.	biology
+Transgenic organisms contain foreign genes.	biology
+The villi increase intestinal surface area for absorption.	biology
+We examined mountain ecosystems and altitude effects.	biology
+Bioinformatics analyzes biological data using computers.	biology
+The synapse transmits signals between neurons.	biology
+We learned about urban ecology and city wildlife.	biology
+Pharmacogenomics studies how genes affect drug responses.	biology
+The dendrites receive signals from other neurons.	biology
+We discussed climate change impacts on ecosystems.	biology
+Proteomics studies the entire protein complement.	biology
+The axon carries signals away from neuron cell bodies.	biology
+We examined pollinator decline and its consequences.	biology
+Metabolomics analyzes cellular metabolic products.	biology
+The myelin sheath insulates nerve fibers.	biology
+We studied habitat fragmentation and corridor creation.	biology
+Epigenetics studies heritable changes without DNA alteration.	biology
+The sarcomere is the contractile unit of muscle.	biology
+We learned about restoration ecology principles.	biology
+CRISPR enables precise genome editing.	biology
+The nephron loop concentrates urine.	biology
+We discussed sustainable agriculture practices.	biology
+Synthetic biology designs artificial biological systems.	biology
+The glomerulus filters blood in kidneys.	biology
+We examined renewable energy from biological sources.	biology
+Metagenomics studies microbial community genetics.	biology
+The Bowman's capsule surrounds the glomerulus.	biology
+We learned about bioremediation of contaminated sites.	biology
+Systems biology studies complex biological interactions.	biology
+The collecting duct regulates water reabsorption.	biology
+We discussed green chemistry and environmentally friendly processes.	biology
+Astrobiology searches for life beyond Earth.	biology
+The loop of Henle creates concentration gradients.	biology
+We studied biomimicry and nature-inspired technologies.	biology
+Computational biology uses mathematical models.	biology
+The proximal tubule reabsorbs most filtered substances.	biology
+We examined citizen science and biodiversity monitoring.	biology
+Structural biology determines protein three-dimensional shapes.	biology
+The distal tubule fine-tunes electrolyte balance.	biology
+We learned about ecological footprints and sustainability.	biology
+Marine biology studies ocean life and ecosystems.	biology
+The juxtaglomerular apparatus regulates blood pressure.	biology
+We discussed biomass energy and its applications.	biology
+Microbiology examines microscopic organisms.	biology
+The podocytes form filtration barriers in kidneys.	biology
+We studied carbon sequestration in forests.	biology
+Developmental biology studies organism growth patterns.	biology
+The mesangial cells support glomerular structure.	biology
+We examined ecological indicators of environmental health.	biology
+Evolutionary biology traces species relationships over time.	biology
+The macula densa senses sodium chloride concentrations.	biology
+We learned about sustainable fisheries management.	biology
+Molecular biology studies biological processes at molecular levels.	biology
+The afferent arteriole brings blood to glomerulus.	biology
+We discussed renewable resource management strategies.	biology
+Cell biology examines cellular structure and function.	biology
+The efferent arteriole carries blood from glomerulus.	biology
+We studied ecosystem services and their economic value.	biology
+Immunology studies the body's defense mechanisms.	biology
+The peritubular capillaries surround nephron tubules.	biology
+We examined biodiversity hotspots around the world.	biology
+Genetics studies heredity and gene function.	biology
+The vasa recta maintains medullary concentration gradients.	biology
+We learned about habitat restoration techniques.	biology
+Biochemistry studies chemical processes in living organisms.	biology
+The renal corpuscle consists of glomerulus and capsule.	biology
+We discussed environmental impact assessments.	biology
+Physiology studies how organisms function.	biology
+The renal tubule modifies filtrate composition.	biology
+We studied wildlife corridors and habitat connectivity.	biology
+Anatomy studies organism structure.	biology
+The collecting system concentrates final urine.	biology
+We examined urban planning for biodiversity conservation.	biology
+Ecology studies organism-environment interactions.	biology
+The renal medulla contains loops of Henle.	biology
+We learned about green building design principles.	biology
+Botany studies plant life and structures.	biology
+The renal cortex contains most nephron structures.	biology
+We discussed renewable energy integration strategies.	biology
+Zoology studies animal life and behavior.	biology
+The renal pelvis collects urine from collecting ducts.	biology
+We studied sustainable transportation systems.	biology
+Mycology studies fungi and their roles.	biology
+The ureter carries urine to the bladder.	biology
+We examined waste reduction and recycling programs.	biology
+Virology studies viruses and viral diseases.	biology
+The bladder stores urine until elimination.	biology
+We learned about water conservation techniques.	biology
+Bacteriology studies bacteria and their functions.	biology
+The urethra carries urine out of the body.	biology
+We discussed soil conservation and erosion prevention.	biology
+Parasitology studies parasites and host relationships.	biology
+The sphincter muscles control urine release.	biology
+We studied air quality monitoring and improvement.	biology
+Entomology studies insects and arthropods.	biology
+The detrusor muscle contracts during urination.	biology
+We examined noise pollution and its biological effects.	biology
+Ornithology studies birds and their behaviors.	biology
+The trigone is a triangular area in bladder.	biology
+We learned about light pollution impacts on wildlife.	biology
+Herpetology studies reptiles and amphibians.	biology
+The internal urethral sphincter is involuntary.	biology
+We discussed chemical pollution and bioaccumulation.	biology
+Ichthyology studies fish and aquatic vertebrates.	biology
+The external urethral sphincter is voluntary.	biology
+We studied plastic pollution in marine environments.	biology
+Mammalogy studies mammals and their characteristics.	biology
+The prostate gland surrounds male urethra.	biology
+We examined microplastic impacts on food chains.	biology
+Primatology studies primates and their evolution.	biology
+RainDrop-ZSC/data.csv at main · Electroiscoding/RainDrop-ZSC 
 Small
 
 Standard
