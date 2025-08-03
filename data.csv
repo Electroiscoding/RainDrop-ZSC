@@ -1490,3 +1490,443 @@ text, label
 "The compound exhibits fractional Chern insulator properties",fractional_chern_insulator
 "Identify timber hitch knot structures",timber_hitch_knots
 "The reaction shows mechanochemical polymerization",mechanochemical_polymerization
+"What is 2 + 3?",basic_arithmetic
+"Calculate 5 - 2",basic_arithmetic
+"Multiply 4 by 6",basic_arithmetic
+"Divide 10 by 2",basic_arithmetic
+"What's 7 plus 8?",basic_arithmetic
+"Find 9 minus 4",basic_arithmetic
+"Compute 3 times 7",basic_arithmetic
+"Calculate 15 divided by 3",basic_arithmetic
+"Add these numbers: 2, 4, 6",basic_arithmetic
+"Subtract 12 from 20",basic_arithmetic
+"What is 8 × 9?",multiplication
+"Find the product of 6 and 7",multiplication
+"Multiply 12 by 5",multiplication
+"Calculate 3 × 4 × 2",multiplication
+"What's 11 times 9?",multiplication
+"Find 7 × 8",multiplication
+"Compute 15 × 4",multiplication
+"Multiply 20 by 3",multiplication
+"What is 6 squared?",exponents
+"Calculate 4 to the power of 3",exponents
+"Find 2^5",exponents
+"What's 3 cubed?",exponents
+"Compute 5²",exponents
+"Calculate 10^3",exponents
+"Find 2 to the 4th power",exponents
+"What is 7²?",exponents
+"Calculate the square root of 16",square_roots
+"Find √25",square_roots
+"What's the square root of 36?",square_roots
+"Calculate √49",square_roots
+"Find the square root of 64",square_roots
+"What is √81?",square_roots
+"Calculate √100",square_roots
+"Find the square root of 121",square_roots
+"Solve for x: x + 5 = 12",linear_equations
+"Find x when 2x = 14",linear_equations
+"Solve 3x + 4 = 19",linear_equations
+"What is x if x - 7 = 3?",linear_equations
+"Solve for y: 5y = 25",linear_equations
+"Find x: 2x + 6 = 18",linear_equations
+"Solve 4x - 8 = 12",linear_equations
+"What is x when 3x + 2 = 17?",linear_equations
+"Calculate 1/2 + 1/3",fractions
+"Find 3/4 - 1/4",fractions
+"What is 2/5 × 3/7?",fractions
+"Calculate 4/6 ÷ 2/3",fractions
+"Simplify 6/8",fractions
+"Reduce 12/16 to lowest terms",fractions
+"What is 1/2 + 2/3?",fractions
+"Find 5/6 - 1/3",fractions
+"Convert 0.5 to a fraction",fractions
+"Express 0.25 as a fraction",fractions
+"What is 3.14 rounded to one decimal place?",decimals
+"Round 7.856 to the nearest hundredth",decimals
+"Calculate 2.5 + 3.7",decimals
+"Find 8.9 - 2.4",decimals
+"Multiply 1.5 by 2.4",decimals
+"Divide 7.2 by 1.8",decimals
+"Convert 3/4 to a decimal",decimals
+"Express 7/8 as a decimal",decimals
+"What is 25% of 80?",percentages
+"Calculate 15% of 200",percentages
+"Find 30% of 150",percentages
+"What's 50% of 90?",percentages
+"Calculate 10% of 750",percentages
+"Find 20% of 300",percentages
+"What is 75% of 120?",percentages
+"Calculate 5% of 400",percentages
+"If 20% of a number is 40, what's the number?",percentages
+"Find the whole if 25% equals 75",percentages
+"What's the area of a rectangle 5×3?",geometry_area
+"Calculate the area of a square with side 4",geometry_area
+"Find the area of a triangle with base 6 and height 8",geometry_area
+"What's the area of a circle with radius 3?",geometry_area
+"Calculate the area of a rectangle 12×7",geometry_area
+"Find the area of a square with side 9",geometry_area
+"What's the area of a triangle with base 10 and height 5?",geometry_area
+"Calculate the area of a circle with radius 5",geometry_area
+"Find the perimeter of a rectangle 4×6",geometry_perimeter
+"What's the perimeter of a square with side 7?",geometry_perimeter
+"Calculate the circumference of a circle with radius 4",geometry_perimeter
+"Find the perimeter of a triangle with sides 3, 4, 5",geometry_perimeter
+"What's the perimeter of a rectangle 8×12?",geometry_perimeter
+"Calculate the perimeter of a square with side 15",geometry_perimeter
+"Find the circumference of a circle with diameter 10",geometry_perimeter
+"What's the perimeter of a triangle with sides 5, 5, 8?",geometry_perimeter
+"Find the volume of a cube with side 3",geometry_volume
+"Calculate the volume of a rectangular prism 2×3×4",geometry_volume
+"What's the volume of a cylinder with radius 2 and height 5?",geometry_volume
+"Find the volume of a sphere with radius 3",geometry_volume
+"Calculate the volume of a cube with side 5",geometry_volume
+"What's the volume of a rectangular prism 4×6×8?",geometry_volume
+"Find the volume of a cylinder with radius 3 and height 7",geometry_volume
+"Calculate the volume of a sphere with radius 4",geometry_volume
+"What angle is complementary to 30°?",angles
+"Find the supplement of 120°",angles
+"What's the third angle in a triangle if two angles are 60° and 50°?",angles
+"Calculate the interior angle of a regular pentagon",angles
+"What's the exterior angle of a regular hexagon?",angles
+"Find the angle in a triangle with angles 45° and 90°",angles
+"What's complementary to 65°?",angles
+"Calculate the supplement of 45°",angles
+"Solve x² = 25",quadratic_equations
+"Find x when x² - 4 = 0",quadratic_equations
+"Solve x² + 2x + 1 = 0",quadratic_equations
+"What are the roots of x² - 5x + 6 = 0?",quadratic_equations
+"Solve 2x² = 18",quadratic_equations
+"Find x: x² - 9 = 0",quadratic_equations
+"Solve x² + 4x + 4 = 0",quadratic_equations
+"What are the solutions to x² - 7x + 12 = 0?",quadratic_equations
+"Factor x² + 5x + 6",factoring
+"Factor x² - 4",factoring
+"Factor 2x² + 8x",factoring
+"Factor x² - 9",factoring
+"Factor x² + 7x + 10",factoring
+"Factor x² - x - 6",factoring
+"Factor 3x² + 12x",factoring
+"Factor x² - 16",factoring
+"Simplify 2x + 3x",algebra_simplification
+"Combine like terms: 5y - 2y + 3y",algebra_simplification
+"Simplify 4a + 2b - a + 3b",algebra_simplification
+"Combine: 7x² + 3x² - 2x²",algebra_simplification
+"Simplify 6m - 4m + 2m",algebra_simplification
+"Combine like terms: 3p + 5q - 2p + q",algebra_simplification
+"Simplify 8n² - 3n² + n²",algebra_simplification
+"Combine: 4x + 7 - 2x + 3",algebra_simplification
+"Find the slope of line through (2,3) and (4,7)",coordinate_geometry
+"What's the distance between (0,0) and (3,4)?",coordinate_geometry
+"Find the midpoint of (1,2) and (5,8)",coordinate_geometry
+"What's the equation of line with slope 2 passing through (1,3)?",coordinate_geometry
+"Find the slope of line through (-1,2) and (3,6)",coordinate_geometry
+"Calculate distance between (2,1) and (6,4)",coordinate_geometry
+"What's the midpoint of (0,4) and (8,2)?",coordinate_geometry
+"Find equation of line with slope -1 through (2,5)",coordinate_geometry
+"What's sin(30°)?",trigonometry
+"Calculate cos(60°)",trigonometry
+"Find tan(45°)",trigonometry
+"What is sin(90°)?",trigonometry
+"Calculate cos(0°)",trigonometry
+"Find tan(30°)",trigonometry
+"What's sin(60°)?",trigonometry
+"Calculate cos(45°)",trigonometry
+"Find the hypotenuse of right triangle with legs 3 and 4",pythagorean_theorem
+"Calculate the missing leg if hypotenuse is 5 and one leg is 3",pythagorean_theorem
+"What's the hypotenuse of right triangle with legs 5 and 12?",pythagorean_theorem
+"Find the missing leg: hypotenuse 13, one leg 5",pythagorean_theorem
+"Calculate hypotenuse for legs 6 and 8",pythagorean_theorem
+"What's the missing leg if hypotenuse is 10 and one leg is 6?",pythagorean_theorem
+"Find hypotenuse of right triangle with legs 8 and 15",pythagorean_theorem
+"Calculate missing leg: hypotenuse 17, one leg 8",pythagorean_theorem
+"What's 5!?",factorials
+"Calculate 4!",factorials
+"Find 6!",factorials
+"What is 3!?",factorials
+"Calculate 7!",factorials
+"Find 0!",factorials
+"What's 8!?",factorials
+"Calculate 2!",factorials
+"How many ways to arrange 5 books?",permutations
+"Find P(7,3)",permutations
+"Calculate arrangements of 4 people in 4 seats",permutations
+"What's P(6,2)?",permutations
+"Find permutations of 8 items taken 3 at a time",permutations
+"Calculate P(5,5)",permutations
+"How many ways to arrange ABCD?",permutations
+"Find P(9,4)",permutations
+"Calculate C(5,2)",combinations
+"How many ways to choose 3 from 7?",combinations
+"Find C(6,3)",combinations
+"What's C(4,2)?",combinations
+"Calculate combinations of 8 taken 4 at a time",combinations
+"Find C(7,5)",combinations
+"How many ways to select 2 from 6?",combinations
+"Calculate C(10,3)",combinations
+"What's the probability of rolling a 6?",probability
+"Find probability of heads on coin flip",probability
+"What's P(drawing ace from deck)?",probability
+"Calculate probability of rolling even number",probability
+"Find P(red card from deck)",probability
+"What's probability of rolling 1 or 6?",probability
+"Calculate P(drawing face card)",probability
+"Find probability of two heads in two flips",probability
+"What's the mean of 2, 4, 6, 8?",statistics_mean
+"Calculate average of 10, 15, 20",statistics_mean
+"Find mean of 3, 7, 11, 15, 19",statistics_mean
+"What's the average of 5, 5, 10, 15, 15?",statistics_mean
+"Calculate mean of 1, 3, 5, 7, 9",statistics_mean
+"Find average of 12, 16, 20, 24",statistics_mean
+"What's the mean of 4, 8, 12, 16, 20?",statistics_mean
+"Calculate average of 6, 9, 12, 15",statistics_mean
+"Find the median of 3, 7, 9, 12, 15",statistics_median
+"What's the median of 2, 4, 6, 8, 10, 12?",statistics_median
+"Calculate median of 1, 3, 5, 7",statistics_median
+"Find median of 10, 20, 30, 40, 50",statistics_median
+"What's the median of 5, 8, 12, 15, 18?",statistics_median
+"Calculate median of 2, 4, 6, 8",statistics_median
+"Find median of 11, 13, 17, 19, 23",statistics_median
+"What's the median of 6, 9, 12?",statistics_median
+"Find the mode of 2, 3, 3, 4, 5",statistics_mode
+"What's the mode of 1, 2, 2, 3, 4, 4, 4?",statistics_mode
+"Calculate mode of 5, 6, 7, 6, 8, 6",statistics_mode
+"Find mode of 10, 15, 10, 20, 25, 10",statistics_mode
+"What's the mode of 3, 4, 5, 4, 6, 4?",statistics_mode
+"Calculate mode of 7, 8, 9, 7, 10, 7",statistics_mode
+"Find mode of 12, 15, 12, 18, 12, 21",statistics_mode
+"What's the mode of 2, 3, 4, 3, 5, 3?",statistics_mode
+"Calculate compound interest: $1000 at 5% for 2 years",compound_interest
+"Find compound interest: $500 at 3% for 4 years",compound_interest
+"What's final amount: $2000 at 4% for 3 years?",compound_interest
+"Calculate interest: $1500 at 6% compounded annually for 5 years",compound_interest
+"Find compound interest: $800 at 2.5% for 6 years",compound_interest
+"What's the amount: $1200 at 7% for 2 years?",compound_interest
+"Calculate final value: $3000 at 4.5% for 4 years",compound_interest
+"Find compound interest: $600 at 8% for 3 years",compound_interest
+"Calculate simple interest: $1000 at 5% for 3 years",simple_interest
+"Find simple interest: $500 at 4% for 2 years",simple_interest
+"What's the interest: $2000 at 6% for 4 years?",simple_interest
+"Calculate simple interest: $1500 at 3% for 5 years",simple_interest
+"Find interest: $800 at 7% for 2 years",simple_interest
+"What's simple interest: $1200 at 2% for 6 years?",simple_interest
+"Calculate interest: $3000 at 8% for 1 year",simple_interest
+"Find simple interest: $600 at 5% for 4 years",simple_interest
+"What's log₁₀(100)?",logarithms
+"Calculate ln(e)",logarithms
+"Find log₂(8)",logarithms
+"What is log₁₀(1000)?",logarithms
+"Calculate log₃(27)",logarithms
+"Find ln(1)",logarithms
+"What's log₅(25)?",logarithms
+"Calculate log₁₀(10)",logarithms
+"Solve the system: x + y = 5, x - y = 1",systems_of_equations
+"Find x and y: 2x + y = 7, x + y = 4",systems_of_equations
+"Solve: 3x + 2y = 12, x + y = 5",systems_of_equations
+"Find solution: x + 2y = 8, 2x - y = 3",systems_of_equations
+"Solve: 4x + y = 11, 2x + 3y = 13",systems_of_equations
+"Find x, y: 5x - 2y = 14, 3x + y = 11",systems_of_equations
+"Solve system: x + 3y = 10, 2x - y = 4",systems_of_equations
+"Find values: 3x - 4y = 1, x + 2y = 9",systems_of_equations
+"What's the derivative of x²?",calculus_derivatives
+"Find d/dx(3x³)",calculus_derivatives
+"Calculate derivative of 5x⁴",calculus_derivatives
+"What's d/dx(2x + 3)?",calculus_derivatives
+"Find derivative of x⁵",calculus_derivatives
+"Calculate d/dx(4x² - 2x)",calculus_derivatives
+"What's the derivative of 6x³?",calculus_derivatives
+"Find d/dx(x⁴ + 3x²)",calculus_derivatives
+"Calculate ∫x dx",calculus_integrals
+"Find ∫2x dx",calculus_integrals
+"What's ∫x² dx?",calculus_integrals
+"Calculate ∫3x² dx",calculus_integrals
+"Find ∫4x³ dx",calculus_integrals
+"What's ∫(2x + 3) dx?",calculus_integrals
+"Calculate ∫x⁴ dx",calculus_integrals
+"Find ∫(x² + 2x) dx",calculus_integrals
+"Convert 45° to radians",angle_conversion
+"What's 60° in radians?",angle_conversion
+"Convert π/3 radians to degrees",angle_conversion
+"What's 90° in radians?",angle_conversion
+"Convert π/4 radians to degrees",angle_conversion
+"What's 180° in radians?",angle_conversion
+"Convert 2π/3 radians to degrees",angle_conversion
+"What's 30° in radians?",angle_conversion
+"Find the limit of (x²-1)/(x-1) as x approaches 1",calculus_limits
+"What's lim(x→0) sin(x)/x?",calculus_limits
+"Calculate lim(x→∞) 1/x",calculus_limits
+"Find lim(x→2) (x²-4)/(x-2)",calculus_limits
+"What's lim(x→0) (1-cos(x))/x²?",calculus_limits
+"Calculate lim(x→∞) (2x+1)/(x+3)",calculus_limits
+"Find lim(x→1) (x³-1)/(x-1)",calculus_limits
+"What's lim(x→0) tan(x)/x?",calculus_limits
+"Find the 10th term of arithmetic sequence 2, 5, 8, ...",sequences_arithmetic
+"What's the nth term of sequence 3, 7, 11, 15, ...?",sequences_arithmetic
+"Calculate 15th term of 1, 4, 7, 10, ...",sequences_arithmetic
+"Find common difference of 5, 9, 13, 17",sequences_arithmetic
+"What's the 20th term of 2, 6, 10, 14, ...?",sequences_arithmetic
+"Calculate sum of first 10 terms of 3, 6, 9, ...",sequences_arithmetic
+"Find 8th term of arithmetic sequence 4, 9, 14, ...",sequences_arithmetic
+"What's the sum of first 5 terms of 1, 5, 9, ...?",sequences_arithmetic
+"Find 6th term of geometric sequence 2, 6, 18, ...",sequences_geometric
+"What's the common ratio of 3, 12, 48, 192?",sequences_geometric
+"Calculate 5th term of 1, 4, 16, 64, ...",sequences_geometric
+"Find nth term of geometric sequence 5, 15, 45, ...",sequences_geometric
+"What's the 7th term of 2, 8, 32, 128, ...?",sequences_geometric
+"Calculate sum of first 4 terms of 3, 6, 12, ...",sequences_geometric
+"Find 4th term of geometric sequence 1, 3, 9, ...",sequences_geometric
+"What's the common ratio of 4, 20, 100, 500?",sequences_geometric
+"Express 2 + 3i in polar form",complex_numbers
+"Find |3 + 4i|",complex_numbers
+"Calculate (2 + i)(3 - 2i)",complex_numbers
+"What's the conjugate of 5 - 7i?",complex_numbers
+"Find (4 + 3i) + (2 - i)",complex_numbers
+"Calculate |5 - 12i|",complex_numbers
+"What's (1 + 2i)²?",complex_numbers
+"Find the argument of 3 + 3i",complex_numbers
+"Solve |x - 3| = 7",absolute_value
+"Find solutions to |2x + 1| = 5",absolute_value
+"What values satisfy |x + 2| = 4?",absolute_value
+"Solve |3x - 6| = 9",absolute_value
+"Find x when |x - 5| = 2",absolute_value
+"What's the solution to |4x + 8| = 12?",absolute_value
+"Solve |2x - 3| = 7",absolute_value
+"Find values of x: |x + 1| = 6",absolute_value
+"What's the range of f(x) = x²?",function_properties
+"Find domain of f(x) = 1/x",function_properties
+"What's the domain of f(x) = √x?",function_properties
+"Find range of f(x) = |x|",function_properties
+"What's the domain of f(x) = 1/(x-2)?",function_properties
+"Find range of f(x) = x² + 1",function_properties
+"What's the domain of f(x) = √(x-3)?",function_properties
+"Find range of f(x) = -x²",function_properties
+"Calculate Σ(i=1 to 5) i",summation_notation
+"Find Σ(k=1 to 4) k²",summation_notation
+"What's Σ(n=1 to 6) 2n?",summation_notation
+"Calculate Σ(i=1 to 3) (2i + 1)",summation_notation
+"Find Σ(k=1 to 5) k³",summation_notation
+"What's Σ(n=2 to 6) n?",summation_notation
+"Calculate Σ(i=1 to 4) (3i - 2)",summation_notation
+"Find Σ(k=0 to 3) 2^k",summation_notation
+"What's the greatest common divisor of 12 and 18?",number_theory
+"Find GCD(24, 36)",number_theory
+"What's the LCM of 4 and 6?",number_theory
+"Calculate least common multiple of 8 and 12",number_theory
+"Find GCD(15, 25)",number_theory
+"What's LCM(6, 9)?",number_theory
+"Calculate GCD(20, 30)",number_theory
+"Find least common multiple of 10 and 15",number_theory
+"Convert 5 meters to centimeters",unit_conversion
+"How many inches in 3 feet?",unit_conversion
+"Convert 2 hours to minutes",unit_conversion
+"What's 1000 grams in kilograms?",unit_conversion
+"Convert 5 kilometers to meters",unit_conversion
+"How many seconds in 2 minutes?",unit_conversion
+"Convert 3 yards to feet",unit_conversion
+"What's 500 milliliters in liters?",unit_conversion
+"Round 3.7856 to nearest tenth",rounding
+"Round 12.345 to two decimal places",rounding
+"What's 7.89 rounded to nearest whole number?",rounding
+"Round 0.6789 to three decimal places",rounding
+"Round 45.67 to nearest ten",rounding
+"What's 3.14159 rounded to two decimal places?",rounding
+"Round 876.543 to nearest hundred",rounding
+"Round 2.7182 to three decimal places",rounding
+"What's 3⁴?",powers
+"Calculate 2⁶",powers
+"Find 5³",powers
+"What is 4⁵?",powers
+"Calculate 7²",powers
+"Find 6³",powers
+"What's 2⁸?",powers
+"Calculate 3⁵",powers
+"Evaluate 8 ÷ 2 × 3 + 1",order_of_operations
+"Calculate 5 + 3 × 2 - 4",order_of_operations
+"What's (4 + 6) × 2 ÷ 5?",order_of_operations
+"Evaluate 12 ÷ 3 + 8 × 2",order_of_operations
+"Calculate 6 × 2 + 4 ÷ 2",order_of_operations
+"What's 15 - 3 × 4 + 7?",order_of_operations
+"Evaluate (8 - 3) × 4 + 6",order_of_operations
+"Calculate 20 ÷ 4 × 3 - 5",order_of_operations
+"What's the reciprocal of 3/4?",reciprocals
+"Find reciprocal of 5/7",reciprocals
+"What's 1 ÷ (2/3)?",reciprocals
+"Calculate reciprocal of 8",reciprocals
+"Find reciprocal of 1/5",reciprocals
+"What's the reciprocal of 9/2?",reciprocals
+"Calculate 1 ÷ (3/8)",reciprocals
+"Find reciprocal of 12",reciprocals
+"Is 17 prime?",prime_numbers
+"What are the prime factors of 12?",prime_numbers
+"Is 21 a prime number?",prime_numbers
+"Find prime factorization of 18",prime_numbers
+"Is 23 prime?",prime_numbers
+"What are prime factors of 15?",prime_numbers
+"Is 25 a prime number?",prime_numbers
+"Find prime factorization of 20",prime_numbers
+"Compare 3/4 and 5/6",fraction_comparison
+"Which is larger: 2/3 or 3/5?",fraction_comparison
+"Is 7/8 greater than 4/5?",fraction_comparison
+"Compare 1/2 and 3/7",fraction_comparison
+"Which is smaller: 5/12 or 2/5?",fraction_comparison
+"Is 9/10 greater than 8/9?",fraction_comparison
+"Compare 3/8 and 2/5",fraction_comparison
+"Which is larger: 4/7 or 5/9?",fraction_comparison
+"What's 15% as a decimal?",percent_to_decimal
+"Convert 0.8 to percentage",decimal_to_percent
+"Express 3/5 as a percentage",fraction_to_percent
+"What's 0.25 as a percentage?",decimal_to_percent
+"Convert 40% to a fraction",percent_to_fraction
+"Express 0.6 as a percentage",decimal_to_percent
+"What's 7/10 as a percentage?",fraction_to_percent
+"Convert 75% to a decimal",percent_to_decimal
+"Find inverse of function f(x) = 2x + 3",inverse_functions
+"What's the inverse of f(x) = x/4?",inverse_functions
+"Find f⁻¹(x) if f(x) = 3x - 5",inverse_functions
+"What's the inverse of f(x) = (x+1)/2?",inverse_functions
+"Find f⁻¹(x) for f(x) = 5x",inverse_functions
+"What's the inverse of f(x) = x - 7?",inverse_functions
+"Find f⁻¹(x) if f(x) = x/3 + 2",inverse_functions
+"What's the inverse of f(x) = 4x + 1?",inverse_functions
+"Evaluate f(3) if f(x) = 2x + 1",function_evaluation
+"Find g(-2) where g(x) = x² - 3",function_evaluation
+"What's h(5) if h(x) = 3x - 4?",function_evaluation
+"Calculate f(0) for f(x) = x² + 2x + 1",function_evaluation
+"Find p(4) where p(x) = 2x² - x",function_evaluation
+"What's q(-1) if q(x) = x³ + 2?",function_evaluation
+"Evaluate f(2) for f(x) = 4x - 7",function_evaluation
+"Find r(3) where r(x) = x² + 3x - 2",function_evaluation
+"What's the next term in 1, 1, 2, 3, 5, 8, ...?",fibonacci_sequence
+"Find the 8th Fibonacci number",fibonacci_sequence
+"What's the 10th term in Fibonacci sequence?",fibonacci_sequence
+"Calculate F(7) in Fibonacci sequence",fibonacci_sequence
+"Find the 12th Fibonacci number",fibonacci_sequence
+"What's F(9) in the sequence?",fibonacci_sequence
+"Calculate the 6th Fibonacci number",fibonacci_sequence
+"Find F(11) in Fibonacci sequence",fibonacci_sequence
+"What's the vertex of parabola y = x²?",parabolas
+"Find vertex of y = x² - 4x + 3",parabolas
+"What's the axis of symmetry for y = 2x²?",parabolas
+"Find vertex of y = -x² + 2x + 1",parabolas
+"What's the minimum value of y = x² + 4?",parabolas
+"Find axis of symmetry: y = x² - 6x + 5",parabolas
+"What's the vertex of y = 2x² - 8x?",parabolas
+"Find minimum of y = x² - 2x + 3",parabolas
+"Calculate standard deviation of 2, 4, 6, 8",statistics_standard_deviation
+"Find variance of 1, 3, 5, 7, 9",statistics_variance
+"What's the standard deviation of 10, 12, 14, 16?",statistics_standard_deviation
+"Calculate variance of 3, 6, 9, 12",statistics_variance
+"Find standard deviation of 5, 10, 15, 20",statistics_standard_deviation
+"What's the variance of 2, 4, 6, 8, 10?",statistics_variance
+"Calculate standard deviation of 1, 2, 3, 4, 5",statistics_standard_deviation
+"Find variance of 8, 12, 16, 20",statistics_variance
+"What's cot(45°)?",trigonometry_cotangent
+"Calculate sec(60°)",trigonometry_secant
+"Find csc(30°)",trigonometry_cosecant
+"What is cot(30°)?",trigonometry_cotangent
+"Calculate sec(0°)",trigonometry_secant
+"Find csc(90°)",trigonometry_cosecant
+"What's cot(60°)?",trigonometry_cotangent
+"Calculate sec(45°)",trigonometry_secant
+"Express 150° in terms of reference angle",reference_angles
+"What's the reference angle for 210°?",reference_angles
